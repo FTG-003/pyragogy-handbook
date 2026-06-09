@@ -1,9 +1,9 @@
 ---
 title: Part III — Protocols and Practices
-description: 
+description: Operational patterns and working methods for human–AI collaboration
 published: true
-date: 2026-04-01T15:33:46.863Z
-tags: 
+date: 2026-06-09T17:43:19.925Z
+tags: protocols, practices, methods, collaboration
 editor: markdown
 dateCreated: 2026-04-01T11:35:24.707Z
 ---
