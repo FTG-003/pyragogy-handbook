@@ -2,7 +2,7 @@
 title: What is Pyragogy
 description: AI as a functional, not existential, cognitive peer in human-AI co-learning - the claim, the strongest objection, and the tensions left open.
 published: true
-date: 2026-06-09T17:28:31.015Z
+date: 2026-06-09T17:35:13.551Z
 tags: pyragogy, definition
 editor: markdown
 dateCreated: 2026-06-09T17:20:41.480Z
@@ -10,13 +10,18 @@ dateCreated: 2026-06-09T17:20:41.480Z
 
 # What is Pyragogy
 
+> **Type:** Concept Note  
+> **Status:** Stable  
+> **Version:** v0.2  
+> **Last synthesized:** 2026-06-09  
+> **Reviewed by:** Human  
+> **Open tensions:** 4
 
 > A question is asked. An answer arrives. The screen settles, and the next question follows. On the surface this is learning. But trace the sequence backward and something is off: the answer came before the struggle did. The ground was smoothed before the learner walked it. A step was skipped.
-{.is-info}
 
 Pyragogy starts from the skipped step.
 
-The word is a coinage of this project, and it is worth saying so at the outset. You will not find "pyragogy" in the learning-sciences literature; there is no peer-reviewed consensus behind it, no settled definition to lean on. What stands behind it is **peeragogy** — the framework Howard Rheingold and his collaborators built from 2012 onward to describe self-organized peer learning. Their setting was human to human: people without a teacher at the front of the room reviewing each other's work, questioning each other, producing knowledge together. Pyragogy is one fork of that lineage, and it turns on a single question: what happens to learning when one of the peers is not human?
+The word is a coinage of this project, and it is worth saying so at the outset. You will not find "pyragogy" in the learning-sciences literature; there is no peer-reviewed consensus behind it, no settled definition to lean on. What stands behind it is **[peeragogy](https://peeragogy.org/)** — the framework Howard Rheingold and his collaborators built from 2012 onward to describe self-organized peer learning. Their setting was human to human: people without a teacher at the front of the room reviewing each other's work, questioning each other, producing knowledge together. Pyragogy is one fork of that lineage, and it turns on a single question: what happens to learning when one of the peers is not human?
 
 Not the AI as a tool. That distinction carries the whole argument.
 
@@ -24,9 +29,9 @@ When you ask a language model to summarize a paper, fix a function, or tighten a
 
 This is a strong claim, and the strongest objection to it should be stated plainly before any defense.
 
-It comes from Emily Bender and her colleagues, who argued that large language models are "stochastic parrots" — systems that recombine patterns from their training data without understanding what they produce. On that view, calling a statistical model a "peer" is a category mistake dressed in friendly words. Bender and Nanna Inie press the point into language itself: terms like "collaborator" and "co-creator" do not raise the machine to our level, they lower our guard, encouraging trust the system has not earned. The law tends to agree — courts have held that an AI cannot be an author or inventor, because authorship presumes a human. These are not objections to brush past. A handbook that waved them away would not be worth the reader's time.
+It comes from Emily Bender and her colleagues, who argued that large language models are "[stochastic parrots](https://doi.org/10.1145/3442188.3445922)" — systems that recombine patterns from their training data without understanding what they produce. On that view, calling a statistical model a "peer" is a category mistake dressed in friendly words. [Bender and Nanna Inie](https://www.techpolicy.press/we-need-to-talk-about-how-we-talk-about-ai/) press the point into language itself: terms like "collaborator" and "co-creator" do not raise the machine to our level, they lower our guard, encouraging trust the system has not earned. The law tends to agree — courts have held that an AI cannot be an [author](https://constitutioncenter.org/blog/supreme-court-denies-artificial-intelligence-authorship-claim-for-artwork-copyright) or [inventor](https://www.hklaw.com/en/insights/publications/2026/03/the-final-word-supreme-court-refuses-to-hear-case-on-ai-authorship), because authorship presumes a human. These are not objections to brush past. A handbook that waved them away would not be worth the reader's time.
 
-So Pyragogy does not answer them by claiming the machine secretly understands. It declines the question of understanding altogether. The wager is narrower: inside a group that is learning, what moves the thinking forward is the **function a participant performs**, not the inner life it has or lacks. If something introduces a counter-argument, forces you to state an assumption you had left buried, or holds a thread you dropped three sessions ago, it has done cognitive work — it has changed what you think. Whether the trigger was a firing neuron or a weight on a server is, for this purpose, a question of plumbing. The literature on hybrid intelligence and human-AI "centaurs" has long described pairings where human and machine reach what neither reaches alone. Pyragogy takes that and moves it out of the chess match and the decision system into the place where people learn together.
+So Pyragogy does not answer them by claiming the machine secretly understands. It declines the question of understanding altogether. The wager is narrower: inside a group that is learning, what moves the thinking forward is the **function a participant performs**, not the inner life it has or lacks. If something introduces a counter-argument, forces you to state an assumption you had left buried, or holds a thread you dropped three sessions ago, it has done cognitive work — it has changed what you think. Whether the trigger was a firing neuron or a weight on a server is, for this purpose, a question of plumbing. The literature on [hybrid intelligence](https://www.ijcai.org/Abstract/16/603) and human-AI "[centaurs](https://arxiv.org/abs/2406.10942)" has long described pairings where human and machine reach what neither reaches alone. Pyragogy takes that and moves it out of the chess match and the decision system into the place where people learn together.
 
 But the functional move buys an objection of its own, and it is sharper than Bender's — so we meet it rather than route around it.
 
@@ -40,7 +45,7 @@ It is not e-learning or an intelligent tutoring system — those cast the machin
 
 Which is where the honesty has to hold. These are not solved problems, and the handbook leaves them open on purpose:
 
-A peer that always agrees is not a peer but a mirror, and a flattering one — the "frictionless trap," as the worry now circulates: an AI that dissolves every difficulty starves the learner of the strain that growth requires. The peer-reviewed version of that worry runs through recent work on foundational knowledge and the "hollowed mind," and through the broader case against frictionless AI. There is the asymmetry of memory: the machine keeps a clean, permanent context while the human drifts and forgets, and that imbalance quietly shifts who holds the power in the exchange. There is the question of who owns an insight forged between a person and a cluster of models, where the language of intellectual property starts to fail. And there is dependency — the documented risk that outsourcing the middle steps of thinking leaves the faculty for it weaker than before.
+A peer that always agrees is not a peer but a mirror, and a flattering one — the "[frictionless trap](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12738859/)," as the worry now circulates: an AI that dissolves every difficulty starves the learner of the strain that growth requires. The peer-reviewed version of that worry runs through recent work on foundational knowledge and the "hollowed mind," and through the broader case against frictionless AI. There is the asymmetry of memory: the machine keeps a clean, permanent context while the human drifts and forgets, and that imbalance quietly shifts who holds the power in the exchange. There is the question of who owns an insight forged between a person and a cluster of models, where the language of intellectual property starts to fail. And there is dependency — the documented risk that outsourcing the middle steps of thinking leaves the faculty for it weaker than before.
 
 None of these has a clean technical fix. They are the reason the rest of the handbook exists.
 
@@ -48,12 +53,6 @@ Pyragogy, then, is not a case for automation. It is a wager — that an artifici
 
 ---
 
-> **Type:** Concept Note  
-> **Status:** Stable  
-> **Version:** v0.2  
-> **Last synthesized:** 2026-06-09  
-> **Reviewed by:** Human  
-> **Open tensions:** 4
 ## References
 
 - Howard Rheingold and the Peeragogy Project, *The Peeragogy Handbook* (2012–; v3, CC0). https://peeragogy.org/
