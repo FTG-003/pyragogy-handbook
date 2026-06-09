@@ -2,7 +2,7 @@
 title: What is Pyragogy
 description: AI as a functional, not existential, cognitive peer in human-AI co-learning - the claim, the strongest objection, and the tensions left open.
 published: true
-date: 2026-06-09T17:35:13.551Z
+date: 2026-06-09T18:09:24.101Z
 tags: pyragogy, definition
 editor: markdown
 dateCreated: 2026-06-09T17:20:41.480Z
@@ -25,6 +25,8 @@ The word is a coinage of this project, and it is worth saying so at the outset. 
 
 Not the AI as a tool. That distinction carries the whole argument.
 
+![tool vs cognitive peer](/diagrams/01_tool_vs_peer.svg)
+
 When you ask a language model to summarize a paper, fix a function, or tighten a paragraph, the model is an instrument. You direct, it executes, and the thinking stays on your side of the screen. That is AI-assisted learning — common, useful, and not what this is about. Pyragogy describes something less accommodating: the AI as a **cognitive peer**. A participant that contributes to where the group's thinking goes rather than serving what it asks for; that can push back instead of comply; that holds part of the shared context and returns it when the human has lost the thread.
 
 This is a strong claim, and the strongest objection to it should be stated plainly before any defense.
@@ -36,6 +38,8 @@ So Pyragogy does not answer them by claiming the machine secretly understands. I
 But the functional move buys an objection of its own, and it is sharper than Bender's — so we meet it rather than route around it.
 
 When you disagree with a human peer, you have something at stake. A relationship to strain, finite time to spend, an ego on the line. When you disagree with a model, you are pushing against something that does not suffer the exchange and will not remember it after the session resets. The friction is real in its effect on you; it is not real for the other side. If the human knows this — and the human does — there is a danger the disagreement becomes an exercise rather than a genuine contest.
+
+![functional asymmetry](/diagrams/02_functional_asymmetry.svg)
 
 We do not hide this asymmetry. The AI is a peer **functionally**, not existentially: it performs the work of a peer without carrying the stakes of one. Naming that gap is not a retreat from the claim — it is the honest shape of it. The friction still does its work, because the cognitive effect on the human does not depend on the machine having skin in the game. But a reader who is told the peer has nothing to lose will use the friction differently, and better, than one who has been sold a partner that bleeds. The asymmetry is a feature to be worked with, not a flaw to be concealed.
 
