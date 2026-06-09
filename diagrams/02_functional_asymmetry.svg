@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <style>
+    text { font-family: 'IBM Plex Mono', monospace; }
+    text, .stroke-main { fill: #1a1a1a; stroke: #1a1a1a; }
+    @media (prefers-color-scheme: dark) {
+      text, .stroke-main { fill: #f3f4f6; stroke: #f3f4f6; }
+    }
+    text { stroke-width: 0; }
+  </style>
+  <defs>
+    <marker id="aAmber" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#f59e0b"></path></marker>
+    <marker id="aIndigo" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#6366f1"></path></marker>
+  </defs>
+
+  <text x="400" y="40" text-anchor="middle" font-size="13" font-weight="700">same cognitive work — different stake</text>
+
+  
+  <rect x="110" y="100" width="110" height="44" rx="2" stroke="#f59e0b" stroke-width="2" fill="none"></rect>
+  <text x="165" y="127" text-anchor="middle" font-size="13">Human</text>
+
+  <rect x="580" y="100" width="110" height="44" rx="2" stroke="#6366f1" stroke-width="2" fill="none"></rect>
+  <text x="635" y="127" text-anchor="middle" font-size="13">Agent</text>
+
+  
+  <text x="400" y="110" text-anchor="middle" font-size="13">does the work</text>
+
+  
+  <line x1="220" y1="126" x2="368" y2="126" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#aAmber)"></line>
+  <line x1="580" y1="126" x2="432" y2="126" stroke="#6366f1" stroke-width="2" fill="none" marker-end="url(#aIndigo)"></line>
+
+  
+  <line x1="165" y1="144" x2="165" y2="206" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#aAmber)"></line>
+  <circle cx="165" cy="242" r="30" stroke="#f59e0b" stroke-width="2" fill="none"></circle>
+  <text x="165" y="300" text-anchor="middle" font-size="12">stake held</text>
+
+  
+  <line x1="635" y1="144" x2="635" y2="206" stroke="#6366f1" stroke-width="2" stroke-dasharray="4,4" fill="none" marker-end="url(#aIndigo)"></line>
+  <circle cx="635" cy="242" r="30" stroke="#6366f1" stroke-width="2" stroke-dasharray="4,4" fill="none"></circle>
+  <text x="635" y="300" text-anchor="middle" font-size="12">no stake / resets</text>
+
+  <text x="400" y="330" text-anchor="middle" font-size="13" font-weight="700">functional peer</text>
+</svg>
