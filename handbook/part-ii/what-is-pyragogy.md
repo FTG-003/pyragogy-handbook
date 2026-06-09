@@ -2,7 +2,7 @@
 title: What is Pyragogy
 description: AI as a functional, not existential, cognitive peer in human-AI co-learning - the claim, the strongest objection, and the tensions left open.
 published: true
-date: 2026-06-09T17:21:48.718Z
+date: 2026-06-09T17:28:31.015Z
 tags: pyragogy, definition
 editor: markdown
 dateCreated: 2026-06-09T17:20:41.480Z
@@ -10,14 +10,9 @@ dateCreated: 2026-06-09T17:20:41.480Z
 
 # What is Pyragogy
 
-> **Type:** Concept Note  
-> **Status:** Stable  
-> **Version:** v0.2  
-> **Last synthesized:** 2026-06-09  
-> **Reviewed by:** Human  
-> **Open tensions:** 4
 
 > A question is asked. An answer arrives. The screen settles, and the next question follows. On the surface this is learning. But trace the sequence backward and something is off: the answer came before the struggle did. The ground was smoothed before the learner walked it. A step was skipped.
+{.is-info}
 
 Pyragogy starts from the skipped step.
 
@@ -53,6 +48,12 @@ Pyragogy, then, is not a case for automation. It is a wager — that an artifici
 
 ---
 
+> **Type:** Concept Note  
+> **Status:** Stable  
+> **Version:** v0.2  
+> **Last synthesized:** 2026-06-09  
+> **Reviewed by:** Human  
+> **Open tensions:** 4
 ## References
 
 - Howard Rheingold and the Peeragogy Project, *The Peeragogy Handbook* (2012–; v3, CC0). https://peeragogy.org/
