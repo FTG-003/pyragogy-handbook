@@ -2,7 +2,7 @@
 title: Divergence
 description: Divergence — a project-specific use of the term for the deliberate separation of a human-machine group's research paths to map different regions of a problem space, anchored on Guilford's divergent thinking and March's exploration/exploitation tradeoff.
 published: true
-date: 2026-06-10T11:20:47.771Z
+date: 2026-06-10T16:59:02.494Z
 tags: pyragogy, definition, cognition, divergence, exploration
 editor: markdown
 dateCreated: 2026-06-10T11:13:21.455Z
@@ -80,3 +80,8 @@ So Divergence, named here, does little more for now than mark the deliberate mov
 - J. P. Guilford, "The Structure of Intellect," *Psychological Bulletin* 53, no. 4 (1956): 267–293. https://doi.org/10.1037/h0040755 — introduces the Structure-of-Intellect model and the convergent/divergent production distinction. Biographical and conceptual summary (open access): https://www.newworldencyclopedia.org/entry/J._P._Guilford
 - For the attribution and the "goes off in different directions" gloss as used here: Andreas Fink and Mathias Benedek et al., reviewing the field, state that "in his well-known Structure-of-Intellect model, Guilford (1956) distinguished convergent from divergent cognitive processes" and that divergent thinking is the "kind that goes off in different directions." See "Tackling creativity at its roots: Evidence for different patterns of EEG alpha activity related to convergent and divergent modes of task processing," *International Journal of Psychophysiology* (PMC open copy). https://pmc.ncbi.nlm.nih.gov/articles/PMC3343259/
 - James G. March, "Exploration and Exploitation in Organizational Learning," *Organization Science* 2, no. 1 (1991): 71–87. https://doi.org/10.1287/orsc.2.1.71 — source of the exploration/exploitation framing and the quoted claim that "adaptive processes, by refining exploitation more rapidly than exploration, are likely to become effective in the short run but self-destructive in the long run." Open-access copy: http://www.iot.ntnu.no/innovation/norsi-pims-courses/Levinthal/March%20(1991).pdf
+
+
+---
+
+↑ Back to **[Part II — Core Concepts](/en/handbook/part-ii)** · [Handbook index](/en/handbook)
