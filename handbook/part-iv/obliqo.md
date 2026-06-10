@@ -2,7 +2,7 @@
 title: Case Study: Obliqo
 description: How a friction-engine browser extension was built, deployed, and put in front of writers — a working test of whether designed disagreement helps a person think, and an honest account of what is not yet measured.
 published: true
-date: 2026-06-10T11:21:11.572Z
+date: 2026-06-10T16:59:25.315Z
 tags: case-study, obliqo, friction, browser-extension, field-validation
 editor: markdown
 dateCreated: 2026-04-09T06:29:55.054Z
@@ -84,3 +84,8 @@ What the case establishes is narrower than a result and more than nothing. It es
 - Howard Rheingold and the Peeragogy Project, *The Peeragogy Handbook* — the peer-learning lineage this project forks. https://peeragogy.org/
 </content>
 </invoke>
+
+
+---
+
+↑ Back to **[Part IV — Cases and Experiments](/en/handbook/part-iv)** · [Handbook index](/en/handbook)
