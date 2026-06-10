@@ -2,7 +2,7 @@
 title: Pattern: Adversarial Friction
 description: A pattern for deliberately assigning an agent the job of attacking a human's thesis — injecting cognitive friction on purpose to stress-test an idea before the world does.
 published: true
-date: 2026-06-10T11:21:00.073Z
+date: 2026-06-10T16:59:13.757Z
 tags: pyragogy, pattern, adversarial-friction, red-teaming, groupthink
 editor: markdown
 dateCreated: 2026-06-10T11:13:36.907Z
@@ -73,3 +73,8 @@ None of these has a clean fix in the configuration. They are reasons the pattern
 - *Executive Order 14110, "Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence"* (Oct. 30, 2023), §3(d) — definition of "AI red-teaming." The American Presidency Project: https://www.presidency.ucsb.edu/documents/executive-order-14110-safe-secure-and-trustworthy-development-and-use-artificial
 - Lama Ahmad, Sandhini Agarwal, Michael Lampe, and Pamela Mishkin, "OpenAI's Approach to External Red Teaming for AI Models and Systems" (submitted Jan. 24, 2025; arXiv:2503.16431, listed March 2025). https://arxiv.org/abs/2503.16431
 - OpenRouter — a unified API endpoint routing requests across models from multiple providers (in-body implementation example only). https://openrouter.ai/
+
+
+---
+
+↑ Back to **[Part III — Protocols and Practices](/en/handbook/part-iii)** · [Handbook index](/en/handbook)
