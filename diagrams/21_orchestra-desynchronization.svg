@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <style>
+    text { font-family: 'IBM Plex Mono', monospace; }
+    text, .stroke-main { fill: #1a1a1a; stroke: #1a1a1a; }
+    text { stroke-width: 0; }
+  </style>
+  <defs>
+    <marker id="aIndigo" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#6366f1"></path></marker>
+    <marker id="aMain" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" class="stroke-main" stroke-width="0"></path></marker>
+    <marker id="aAmber" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#f59e0b"></path></marker>
+  </defs>
+
+  
+  <rect x="0" y="0" width="800" height="400" rx="2" fill="#faf9f6"></rect>
+
+  <line x1="400" y1="30" x2="400" y2="370" class="stroke-main" stroke-width="1" style="fill:none" opacity="0.3"></line>
+
+  
+  <text x="200" y="45" text-anchor="middle" font-size="13" font-weight="700">DESYNCHRONIZED</text>
+  <circle cx="200" cy="110" r="26" stroke="#6366f1" stroke-width="2" fill="none"></circle>
+  <circle cx="120" cy="250" r="26" stroke="#6366f1" stroke-width="2" fill="none"></circle>
+  <circle cx="280" cy="250" r="26" stroke="#6366f1" stroke-width="2" fill="none"></circle>
+  <path d="M178,128 L142,224" stroke="#6366f1" stroke-width="2" stroke-dasharray="4,4" fill="none" marker-end="url(#aIndigo)"></path>
+  <path d="M146,260 L254,260" stroke="#6366f1" stroke-width="2" stroke-dasharray="4,4" fill="none" marker-end="url(#aIndigo)"></path>
+  <path d="M258,224 L222,128" stroke="#6366f1" stroke-width="2" stroke-dasharray="4,4" fill="none" marker-end="url(#aIndigo)"></path>
+  <text x="200" y="320" text-anchor="middle" font-size="11">valid msgs, no done</text>
+
+  
+  <text x="600" y="45" text-anchor="middle" font-size="13" font-weight="700">ANCHORED</text>
+  <circle cx="560" cy="100" r="24" stroke="#6366f1" stroke-width="2" fill="none"></circle>
+  <circle cx="490" cy="240" r="24" stroke="#6366f1" stroke-width="2" fill="none"></circle>
+  <circle cx="630" cy="240" r="24" stroke="#6366f1" stroke-width="2" fill="none"></circle>
+  
+  <rect x="538" y="158" width="44" height="44" rx="2" class="stroke-main" stroke-width="2" style="fill:none"></rect>
+  <text x="560" y="150" text-anchor="middle" font-size="10">anchor</text>
+  <line x1="556" y1="124" x2="558" y2="156" class="stroke-main" stroke-width="2" style="fill:none" marker-end="url(#aMain)"></line>
+  <line x1="512" y1="226" x2="540" y2="200" class="stroke-main" stroke-width="2" style="fill:none" marker-end="url(#aMain)"></line>
+  <line x1="608" y1="226" x2="580" y2="200" class="stroke-main" stroke-width="2" style="fill:none" marker-end="url(#aMain)"></line>
+  
+  <circle cx="715" cy="170" r="22" stroke="#6366f1" stroke-width="2" fill="none"></circle>
+  <text x="715" y="135" text-anchor="middle" font-size="10">verify,</text>
+  <text x="715" y="147" text-anchor="middle" font-size="10">not aggregate</text>
+  <line x1="694" y1="178" x2="586" y2="188" stroke="#6366f1" stroke-width="2" fill="none" marker-end="url(#aIndigo)"></line>
+
+  
+  <rect x="515" y="330" width="90" height="34" rx="2" stroke="#f59e0b" stroke-width="2" fill="none"></rect>
+  <text x="560" y="352" text-anchor="middle" font-size="12">Human</text>
+  <line x1="560" y1="330" x2="560" y2="206" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#aAmber)"></line>
+
+  <text x="600" y="392" text-anchor="middle" font-size="11">a floor, and a 'done' from outside the talk</text>
+</svg>
