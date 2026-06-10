@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <style>
+    text { font-family: 'IBM Plex Mono', monospace; }
+    text, .stroke-main { fill: #1a1a1a; stroke: #1a1a1a; }
+    text { stroke-width: 0; }
+  </style>
+  <defs>
+    <marker id="aAmber" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#f59e0b"></path></marker>
+    <marker id="aIndigo" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#6366f1"></path></marker>
+    <marker id="aMain" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" class="stroke-main" stroke-width="0"></path></marker>
+  </defs>
+
+  
+  <rect x="0" y="0" width="800" height="400" rx="2" fill="#faf9f6"></rect>
+
+  <line x1="400" y1="28" x2="400" y2="372" class="stroke-main" stroke-width="1" style="fill:none"></line>
+
+  
+  <text x="200" y="36" text-anchor="middle" font-size="15" font-weight="700">RED-TEAM</text>
+  <text x="200" y="56" text-anchor="middle" font-size="11">human attacks machine</text>
+
+  <rect x="78" y="150" width="104" height="44" rx="2" stroke="#f59e0b" stroke-width="2" fill="none"></rect>
+  <text x="130" y="177" text-anchor="middle" font-size="13">Human</text>
+
+  <rect x="218" y="150" width="104" height="44" rx="2" stroke="#6366f1" stroke-width="2" fill="none"></rect>
+  <text x="270" y="177" text-anchor="middle" font-size="13">Agent</text>
+
+  <text x="200" y="130" text-anchor="middle" font-size="12">probes / finds flaws</text>
+  <line x1="182" y1="172" x2="210" y2="172" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#aAmber)"></line>
+
+  
+  <line x1="130" y1="194" x2="130" y2="240" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#aAmber)"></line>
+  <circle cx="130" cy="276" r="28" stroke="#f59e0b" stroke-width="2" fill="none"></circle>
+  <text x="130" y="335" text-anchor="middle" font-size="12">stake held</text>
+
+  
+  <text x="600" y="36" text-anchor="middle" font-size="15" font-weight="700">FRICTION</text>
+  <text x="600" y="56" text-anchor="middle" font-size="11">machine attacks thesis</text>
+
+  
+  <rect x="478" y="146" width="112" height="52" rx="2" class="stroke-main" stroke-width="2" style="fill:none"></rect>
+  <rect x="488" y="152" width="92" height="40" rx="2" stroke="#f59e0b" stroke-width="2" fill="none"></rect>
+  <text x="534" y="177" text-anchor="middle" font-size="13">Thesis</text>
+
+  
+  <rect x="640" y="120" width="104" height="36" rx="2" stroke="#6366f1" stroke-width="2" fill="none"></rect>
+  <text x="692" y="143" text-anchor="middle" font-size="13">Agent</text>
+  <rect x="640" y="170" width="104" height="36" rx="2" stroke="#6366f1" stroke-width="2" fill="none"></rect>
+  <text x="692" y="193" text-anchor="middle" font-size="13">Agent</text>
+  <rect x="640" y="220" width="104" height="36" rx="2" stroke="#6366f1" stroke-width="2" fill="none"></rect>
+  <text x="692" y="243" text-anchor="middle" font-size="13">Agent</text>
+
+  <text x="600" y="106" text-anchor="middle" font-size="12">attacks / stress-tests</text>
+  <line x1="640" y1="138" x2="594" y2="166" stroke="#6366f1" stroke-width="2" fill="none" marker-end="url(#aIndigo)"></line>
+  <line x1="640" y1="188" x2="594" y2="174" stroke="#6366f1" stroke-width="2" fill="none" marker-end="url(#aIndigo)"></line>
+  <line x1="640" y1="238" x2="594" y2="184" stroke="#6366f1" stroke-width="2" fill="none" marker-end="url(#aIndigo)"></line>
+
+  
+  <line x1="692" y1="256" x2="692" y2="290" stroke="#6366f1" stroke-width="2" stroke-dasharray="4,4" fill="none" marker-end="url(#aIndigo)"></line>
+  <circle cx="692" cy="322" r="26" stroke="#6366f1" stroke-width="2" stroke-dasharray="4,4" fill="none"></circle>
+  <text x="692" y="375" text-anchor="middle" font-size="12">no stake / resets</text>
+
+  <text x="400" y="392" text-anchor="middle" font-size="13" font-weight="700">same discipline — assault reversed</text>
+</svg>
