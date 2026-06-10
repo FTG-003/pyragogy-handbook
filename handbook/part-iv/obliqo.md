@@ -2,7 +2,7 @@
 title: Case Study: Obliqo
 description: How a friction-engine browser extension was built, deployed, and put in front of writers — a working test of whether designed disagreement helps a person think, and an honest account of what is not yet measured.
 published: true
-date: 2026-06-10T11:14:22.694Z
+date: 2026-06-10T11:21:11.572Z
 tags: case-study, obliqo, friction, browser-extension, field-validation
 editor: markdown
 dateCreated: 2026-04-09T06:29:55.054Z
