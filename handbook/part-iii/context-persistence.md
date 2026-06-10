@@ -2,7 +2,7 @@
 title: Pattern: Context Persistence
 description: Context Persistence: the practice of anchoring a transient human–AI brainstorm to a durable store so the thinking survives the session that produced it — and why the human and agent halves of the problem are not the same.
 published: true
-date: 2026-06-10T16:59:16.021Z
+date: 2026-06-10T17:16:27.874Z
 tags: pyragogy, agents, pattern, memory, extended-mind, knowledge-base
 editor: markdown
 dateCreated: 2026-06-10T11:13:40.345Z
@@ -80,4 +80,4 @@ The pattern, then, is not a solved storage problem. It is the recognition that a
 
 ---
 
-↑ Back to **[Part III — Protocols and Practices](/en/handbook/part-iii)** · [Handbook index](/en/handbook)
+↑ Back to **[Part III — Protocols and Practices](/en/handbook/part-iii)** · [Handbook](/en/handbook) · [Home](/en/home)
