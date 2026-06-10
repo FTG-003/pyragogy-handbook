@@ -2,7 +2,7 @@
 title: The Paradigm Shift
 description: Why the entrance of AI into learning is a shift from tool use to co-presence — not a gain in efficiency — and what that re-frames for the rest of the handbook.
 published: true
-date: 2026-06-10T11:20:33.268Z
+date: 2026-06-10T16:58:48.507Z
 tags: shift, chapter-0, ai-peer, peeragogy, co-presence
 editor: markdown
 dateCreated: 2026-04-01T11:22:59.699Z
@@ -76,3 +76,8 @@ The room used to hold one mind doing the work. Now it holds two, unevenly, and t
 
 - Howard Rheingold and the Peeragogy Project, *The Peeragogy Handbook* (2012–2021; public domain / CC0). https://peeragogy.org/
 - Thomas Kuhn, *The Structure of Scientific Revolutions* (University of Chicago Press, 1962). On "paradigm," paradigm shift, and incommensurability, see the *Stanford Encyclopedia of Philosophy* entry "Thomas Kuhn." https://plato.stanford.edu/entries/thomas-kuhn/
+
+
+---
+
+↑ Back to **[Part I — The Shift](/en/handbook/part-i)** · [Handbook index](/en/handbook)
