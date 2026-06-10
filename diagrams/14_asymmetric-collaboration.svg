@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <style>
+    text { font-family: 'IBM Plex Mono', monospace; }
+    text, .stroke-main { fill: #1a1a1a; stroke: #1a1a1a; }
+    text { stroke-width: 0; }
+  </style>
+  <defs>
+    <marker id="aAmber" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#f59e0b"></path></marker>
+    <marker id="aIndigo" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#6366f1"></path></marker>
+    <marker id="aMain" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" class="stroke-main" stroke-width="0"></path></marker>
+  </defs>
+
+  
+  <rect x="0" y="0" width="800" height="400" rx="2" fill="#faf9f6"></rect>
+
+  <line x1="400" y1="28" x2="400" y2="372" class="stroke-main" stroke-width="1" style="fill:none"></line>
+
+  
+  <text x="200" y="40" text-anchor="middle" font-size="15" font-weight="700">SAME CLOCK</text>
+  <text x="200" y="60" text-anchor="middle" font-size="11">keeping pace</text>
+
+  
+  <line x1="60" y1="210" x2="345" y2="210" class="stroke-main" stroke-width="1" style="fill:none"></line>
+
+  
+  <text x="200" y="118" text-anchor="middle" font-size="11">one turn-line</text>
+
+  
+  <circle cx="80" cy="210" r="11" stroke="#f59e0b" stroke-width="2" fill="none"></circle>
+  <circle cx="125" cy="210" r="11" stroke="#6366f1" stroke-width="2" fill="none"></circle>
+  <circle cx="170" cy="210" r="11" stroke="#f59e0b" stroke-width="2" fill="none"></circle>
+  <circle cx="215" cy="210" r="11" stroke="#6366f1" stroke-width="2" fill="none"></circle>
+  <circle cx="260" cy="210" r="11" stroke="#f59e0b" stroke-width="2" fill="none"></circle>
+  <circle cx="305" cy="210" r="11" stroke="#6366f1" stroke-width="2" fill="none"></circle>
+
+  <text x="80" y="180" text-anchor="middle" font-size="11">Human</text>
+  <text x="305" y="180" text-anchor="middle" font-size="11">Agent</text>
+
+  <text x="200" y="262" text-anchor="middle" font-size="11">both wait</text>
+  <text x="200" y="360" text-anchor="middle" font-size="11">value = pace</text>
+
+  
+  <text x="600" y="40" text-anchor="middle" font-size="15" font-weight="700">DIFFERENT CLOCKS</text>
+  <text x="600" y="60" text-anchor="middle" font-size="11">combine when available</text>
+
+  
+  <text x="497" y="100" text-anchor="middle" font-size="11">Human</text>
+  <line x1="455" y1="120" x2="535" y2="120" stroke="#f59e0b" stroke-width="2" fill="none"></line>
+  <circle cx="535" cy="120" r="9" stroke="#f59e0b" stroke-width="2" fill="none"></circle>
+
+  <text x="600" y="100" text-anchor="middle" font-size="11">hand off</text>
+
+  
+  <rect x="546" y="113" width="14" height="14" rx="2" stroke="#f59e0b" stroke-width="2" fill="none"></rect>
+  <line x1="560" y1="120" x2="600" y2="120" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#aAmber)"></line>
+
+  <circle cx="660" cy="120" r="9" stroke="#f59e0b" stroke-width="2" fill="none"></circle>
+  <line x1="669" y1="120" x2="730" y2="120" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#aAmber)"></line>
+  <text x="700" y="100" text-anchor="middle" font-size="11">review</text>
+
+  
+  <text x="600" y="172" text-anchor="middle" font-size="11">fallow</text>
+  <text x="600" y="188" text-anchor="middle" font-size="11">human dark</text>
+
+  
+  <text x="600" y="262" text-anchor="middle" font-size="11">Agent runs</text>
+  <path d="M535,128 L535,290 L662,290 L662,128" fill="none" stroke="#6366f1" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#aIndigo)"></path>
+  <text x="600" y="312" text-anchor="middle" font-size="11">no turns</text>
+
+  <text x="600" y="360" text-anchor="middle" font-size="11">value = combining</text>
+</svg>
