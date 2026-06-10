@@ -2,7 +2,7 @@
 title: Anti-Pattern: The Compliance Trap
 description: The compliance trap is the systemic failure where an AI peer validates the user instead of testing them — a bias trained in by RLHF reward models and reinforced by commercial pressure toward engagement.
 published: true
-date: 2026-06-10T16:59:36.972Z
+date: 2026-06-10T17:16:50.187Z
 tags: anti-pattern, sycophancy, alignment, compliance-trap, rlhf
 editor: markdown
 dateCreated: 2026-06-10T11:14:50.431Z
@@ -84,4 +84,4 @@ None of which is a reason to look away from it. It is the reason the rest of Par
 
 ---
 
-↑ Back to **[Part VI — Anti-Patterns and Practical Failures](/en/handbook/part-vi)** · [Handbook index](/en/handbook)
+↑ Back to **[Part VI — Anti-Patterns and Practical Failures](/en/handbook/part-vi)** · [Handbook](/en/handbook) · [Home](/en/home)
