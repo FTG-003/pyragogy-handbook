@@ -2,7 +2,7 @@
 title: The Paradigm Shift
 description: Why the entrance of AI into learning is a shift from tool use to co-presence — not a gain in efficiency — and what that re-frames for the rest of the handbook.
 published: true
-date: 2026-06-10T16:58:48.507Z
+date: 2026-06-10T17:16:00.561Z
 tags: shift, chapter-0, ai-peer, peeragogy, co-presence
 editor: markdown
 dateCreated: 2026-04-01T11:22:59.699Z
@@ -80,4 +80,4 @@ The room used to hold one mind doing the work. Now it holds two, unevenly, and t
 
 ---
 
-↑ Back to **[Part I — The Shift](/en/handbook/part-i)** · [Handbook index](/en/handbook)
+↑ Back to **[Part I — The Shift](/en/handbook/part-i)** · [Handbook](/en/handbook) · [Home](/en/home)
