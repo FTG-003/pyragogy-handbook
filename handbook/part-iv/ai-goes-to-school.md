@@ -2,7 +2,7 @@
 title: Case Study: AI Goes to School
 description: What happens when the pyragogical framework meets a real classroom — documented honestly as an empty frame, because the project has run no school study of its own, while a separate education-research literature has already started using the same word in p
 published: true
-date: 2026-06-10T11:21:16.307Z
+date: 2026-06-10T16:59:29.943Z
 tags: case-study, education, heutagogy, education-4.0, postgraduate, empty-frame
 editor: markdown
 dateCreated: 2026-06-10T11:21:16.307Z
@@ -80,3 +80,8 @@ The case that survives is thin and worth keeping. A framework usually has to fig
 - Turchyn et al. (2023) — cited in Zinchenko et al. (2024) as the primary source for the "pyragogy as social-learning method" definition. The original has not been located or independently confirmed by this handbook; it appears here only as a secondhand attribution, not as a read source.
 - "Heutagogy," *Wikipedia*. https://en.wikipedia.org/wiki/Heutagogy — HTTP 200; supports that heutagogy ("self-determined learning") was coined by Stewart Hase and Chris Kenyon (Southern Cross University) in 2000, the established construct the classroom "pyragogy" travels alongside.
 - Howard Rheingold and the Peeragogy Project, *The Peeragogy Handbook*. https://peeragogy.org/ — HTTP 200; the human-to-human peer-learning lineage this project's "pyragogy" forks from — distinct from the Education 4.0 "pyragogy" documented above.
+
+
+---
+
+↑ Back to **[Part IV — Cases and Experiments](/en/handbook/part-iv)** · [Handbook index](/en/handbook)
