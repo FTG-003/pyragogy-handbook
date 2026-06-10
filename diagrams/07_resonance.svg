@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <style>
+    text { font-family: 'IBM Plex Mono', monospace; }
+    text, .stroke-main { fill: #1a1a1a; stroke: #1a1a1a; }
+    text { stroke-width: 0; }
+  </style>
+  <defs>
+    <marker id="aAmber" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#f59e0b"></path></marker>
+    <marker id="aIndigo" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#6366f1"></path></marker>
+    <marker id="aMain" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" class="stroke-main" stroke-width="0"></path></marker>
+  </defs>
+
+  
+  <rect x="0" y="0" width="800" height="400" rx="2" fill="#faf9f6"></rect>
+
+  
+  <text x="400" y="40" text-anchor="middle" font-size="13" font-weight="700">the surplus belongs to the coupling</text>
+
+  
+  <line x1="90" y1="300" x2="710" y2="300" class="stroke-main" stroke-width="1" style="fill:none"></line>
+
+  
+  
+  <rect x="92" y="278" width="96" height="44" rx="2" stroke="#f59e0b" stroke-width="2" fill="none"></rect>
+  <text x="140" y="305" text-anchor="middle" font-size="13">Human</text>
+  
+  <line x1="188" y1="300" x2="368" y2="300" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#aAmber)"></line>
+
+  
+  <rect x="612" y="278" width="96" height="44" rx="2" stroke="#6366f1" stroke-width="2" stroke-dasharray="4,4" fill="none"></rect>
+  <text x="660" y="305" text-anchor="middle" font-size="13">Agent</text>
+  
+  <line x1="612" y1="300" x2="432" y2="300" stroke="#6366f1" stroke-width="2" stroke-dasharray="4,4" fill="none" marker-end="url(#aIndigo)"></line>
+  <text x="660" y="345" text-anchor="middle" font-size="10">no stake / resets</text>
+
+  
+  
+  <line x1="245" y1="300" x2="245" y2="248" stroke="#f59e0b" stroke-width="2"></line>
+  <line x1="238" y1="248" x2="252" y2="248" stroke="#f59e0b" stroke-width="2"></line>
+  
+  <line x1="555" y1="300" x2="555" y2="248" stroke="#6366f1" stroke-width="2"></line>
+  <line x1="548" y1="248" x2="562" y2="248" stroke="#6366f1" stroke-width="2"></line>
+
+  
+  
+  <line x1="300" y1="196" x2="500" y2="196" class="stroke-main" stroke-width="1" stroke-dasharray="4,4" style="fill:none"></line>
+  <text x="510" y="200" text-anchor="start" font-size="11">sum</text>
+
+  
+  
+  <path d="M300,300 C340,300 360,120 400,120 C440,120 460,300 500,300" fill="none" class="stroke-main" stroke-width="2"></path>
+  
+  <line x1="400" y1="300" x2="400" y2="120" class="stroke-main" stroke-width="1" stroke-dasharray="2,3" style="fill:none"></line>
+
+  
+  <line x1="612" y1="120" x2="612" y2="196" class="stroke-main" stroke-width="1" style="fill:none"></line>
+  <line x1="606" y1="120" x2="612" y2="120" class="stroke-main" stroke-width="1" style="fill:none"></line>
+  <line x1="606" y1="196" x2="612" y2="196" class="stroke-main" stroke-width="1" style="fill:none"></line>
+  <text x="620" y="162" text-anchor="start" font-size="11" font-weight="700">surplus</text>
+
+  
+  <text x="400" y="100" text-anchor="middle" font-size="13" font-weight="700">more than the sum</text>
+</svg>
