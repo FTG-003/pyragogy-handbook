@@ -2,7 +2,7 @@
 title: Part II — Core Concepts
 description: 
 published: true
-date: 2026-06-10T11:21:43.850Z
+date: 2026-06-10T17:15:45.358Z
 tags: index, concepts
 editor: markdown
 dateCreated: 2026-04-01T11:24:10.408Z
@@ -34,3 +34,8 @@ Its function is to make the framework legible, reusable, and criticizable. — *
 - **[Resonance](/en/handbook/part-ii/resonance)** — The emergent amplification state where group output exceeds the sum of individual human + AI contributions. — `define`
 - **[Blues Protocol](/en/handbook/part-ii/blues-protocol)** — The ritual handling of cognitive deadlock, systemic error, and frustration within the network. — `define`
 - **[CRDT Bridge](/en/handbook/part-ii/crdt-bridge)** — Logical convergence of shared knowledge without a central validating authority. — `define`
+
+
+---
+
+↑ [Home](/en/home) · [Handbook](/en/handbook)
