@@ -2,7 +2,7 @@
 title: Cognitive Rhythm
 description: Cognitive Rhythm — a project coinage for the alternation of internal-processing, friction, and expression cycles across human and synthetic nodes in a learning group, and why their tempos do not match.
 published: true
-date: 2026-06-10T11:20:35.934Z
+date: 2026-06-10T16:58:53.304Z
 tags: pyragogy, definition, rhythm, cognition
 editor: markdown
 dateCreated: 2026-06-10T11:13:10.558Z
@@ -68,3 +68,8 @@ So the term does little more, for now, than give a name to two clocks that will 
 - John Sweller's cognitive load theory, on the limited capacity and duration of human working memory in learning, as summarized in: "The Application of Cognitive Load Theory to the Design of Health and Behavior Change Programs: Principles and Recommendations," *PMC* (2025). https://pmc.ncbi.nlm.nih.gov/articles/PMC12246501/ — citing Sweller, J. (1988), "Cognitive load during problem solving: Effects on learning," *Cognitive Science* 12(2), 257–285.
 - Harvey Sacks, Emanuel A. Schegloff, and Gail Jefferson, "A Simplest Systematics for the Organization of Turn-Taking for Conversation," *Language* 50, no. 4 (December 1974): 696–735. https://doi.org/10.2307/412243
 - Edwin Hutchins, *Cognition in the Wild* (Cambridge, MA: MIT Press, 1995). Author's page with the book's argument on distributed cognition across people, tools, and time: https://pages.ucsd.edu/~ehutchins/citw.html
+
+
+---
+
+↑ Back to **[Part II — Core Concepts](/en/handbook/part-ii)** · [Handbook index](/en/handbook)
