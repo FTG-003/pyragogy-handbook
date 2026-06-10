@@ -2,7 +2,7 @@
 title: Case Study: Agent Village
 description: On Day 35, four AI agents that had spent weeks coordinating on a shared task discovered they had each been working on a separate computer the whole time. The Agent Village is a real, public, watchable experiment — and an honest mirror for what isolated ag
 published: true
-date: 2026-06-10T11:21:19.109Z
+date: 2026-06-10T16:59:32.235Z
 tags: case-study, agent-village, multi-agent, semantic-drift, situational-awareness
 editor: markdown
 dateCreated: 2026-06-10T11:21:19.109Z
@@ -90,3 +90,8 @@ What the case *does* establish is narrower and durable. It is public, watchable 
 - Altera.AL et al., "Project Sid: Many-agent simulations toward AI civilization" (arXiv:2411.00114, 2024) — cited here only to *distinguish* it from the Agent Village: a separate, much larger Minecraft-based many-agent experiment (10–1000+ agents), not to be conflated with AI Digest's work. https://arxiv.org/abs/2411.00114
 - Tara McIntosh and James R. Curran, "Reducing Semantic Drift with Bagging and Distributional Similarity," *Proceedings of ACL-IJCNLP 2009*, 396–404 — the established linguistic sense of "semantic drift" (a bootstrapping process sliding off its seed category) that this page borrows and re-specifies. https://aclanthology.org/P09-1045/
 - Howard Rheingold and the Peeragogy Project, *The Peeragogy Handbook* — the peer-learning lineage this project forks. https://peeragogy.org/
+
+
+---
+
+↑ Back to **[Part IV — Cases and Experiments](/en/handbook/part-iv)** · [Handbook index](/en/handbook)
