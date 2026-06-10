@@ -2,7 +2,7 @@
 title: Resonance
 description: Resonance — a project coinage for the rare interval when a human-machine learning group produces something neither side, nor their plain sum, was on track to produce. Anchored on emergence and the collective-intelligence literature, with the superadditivi
 published: true
-date: 2026-06-10T11:20:49.922Z
+date: 2026-06-10T16:59:04.637Z
 tags: pyragogy, definition, resonance, emergence, collective-intelligence
 editor: markdown
 dateCreated: 2026-06-10T11:20:49.922Z
@@ -83,3 +83,8 @@ So Resonance, named here, does not promise multiplication. It marks the possibil
 - On **superadditivity** (*f(x + y) ≥ f(x) + f(y)*; value of the whole meeting or exceeding the sum of parts): *Wikipedia*, "Superadditivity." https://en.wikipedia.org/wiki/Superadditivity — used for the exact mathematical shape of the more-than-additive claim. (The Wikipedia source uses the non-strict inequality ≥; the body text has been corrected accordingly.)
 - Anita Williams Woolley, Christopher F. Chabris, Alex Pentland, Nada Hashmi, and Thomas W. Malone, "Evidence for a Collective Intelligence Factor in the Performance of Human Groups," *Science* 330, no. 6004 (2010): 686–688. https://doi.org/10.1126/science.1193147 — the *c*-factor: a measurable group-level competence predicted by social sensitivity and equal turn-taking more than by members' individual intelligence. (DOI resolves via 302 to https://www.science.org/doi/10.1126/science.1193147, which returns HTTP 403 — paywalled. Core *c*-factor findings corroborated at https://en.wikipedia.org/wiki/Collective_intelligence, which reports r=0.15 and r=0.19 for average and maximum IQ correlations with *c*, labelled "moderately correlated". Total participant count and exact group-size range not confirmed by the Wikipedia fallback; those specific figures in the body text remain unverified against the primary source.)
 - Michelle Vaccaro, Abdullah Almaatouq, and Thomas W. Malone, "When Combinations of Humans and AI Are Useful: A Systematic Review and Meta-Analysis," *Nature Human Behaviour* 8 (2024); preprint and journal-ref: arXiv:2405.06087. https://arxiv.org/abs/2405.06087 — pooling 100+ experiments and 300+ effect sizes, finds human-AI combinations on average performed significantly *worse* than the best of human-alone or AI-alone, with losses on decision tasks, gains concentrated in content-creation tasks, and gains only when the human (not the AI) was the stronger party. The arXiv record carries the *Nature Human Behaviour* journal reference; the headline loss is the same in both. The doubt-preserving anchor for this page.
+
+
+---
+
+↑ Back to **[Part II — Core Concepts](/en/handbook/part-ii)** · [Handbook index](/en/handbook)
