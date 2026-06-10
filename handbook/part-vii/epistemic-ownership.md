@@ -2,7 +2,7 @@
 title: The Epistemic Ownership Dilemma
 description: When an insight is forged in inseparable friction between a person and a model, who owns it? A dilemma the handbook leaves open: the law answers cleanly, the experience does not.
 published: true
-date: 2026-06-10T16:59:43.842Z
+date: 2026-06-10T17:16:56.673Z
 tags: pyragogy, open-question, authorship, copyright, epistemics
 editor: markdown
 dateCreated: 2026-06-10T11:21:33.065Z
@@ -69,4 +69,4 @@ Where this leaves the practitioner is uncomfortable, and we will not smooth it. 
 
 ---
 
-↑ Back to **[Part VII — Open Questions](/en/handbook/part-vii)** · [Handbook index](/en/handbook)
+↑ Back to **[Part VII — Open Questions](/en/handbook/part-vii)** · [Handbook](/en/handbook) · [Home](/en/home)
