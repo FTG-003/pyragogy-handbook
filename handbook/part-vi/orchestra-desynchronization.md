@@ -2,7 +2,7 @@
 title: Anti-Pattern: Orchestra Desynchronization
 description: How a multi-agent pipeline breaks down — infinite loops, hallucination that propagates between agents, semantic deadlocks — and the emergency procedures that stop the network from running on confidently while wrong.
 published: true
-date: 2026-06-10T16:59:39.177Z
+date: 2026-06-10T17:16:52.254Z
 tags: anti-pattern, orchestration, multi-agent, failure-modes, emergency-procedures
 editor: markdown
 dateCreated: 2026-06-10T11:21:27.337Z
@@ -92,4 +92,4 @@ The orchestra metaphor has a limit, and it is the right note to end on. A real o
 
 ---
 
-↑ Back to **[Part VI — Anti-Patterns and Practical Failures](/en/handbook/part-vi)** · [Handbook index](/en/handbook)
+↑ Back to **[Part VI — Anti-Patterns and Practical Failures](/en/handbook/part-vi)** · [Handbook](/en/handbook) · [Home](/en/home)
