@@ -2,7 +2,7 @@
 title: Anti-Pattern: Context Poisoning
 description: Context Poisoning: the failure where unfiltered raw data or redundant backstage logs corrupt an agent's working memory — distinct from the scarcity problem of the context window, because here the window is not too small but contaminated, and the contamina
 published: true
-date: 2026-06-10T11:21:30.223Z
+date: 2026-06-10T16:59:41.411Z
 tags: memory, anti-pattern, failure-modes, context, prompt-injection, security
 editor: markdown
 dateCreated: 2026-06-10T11:21:30.223Z
@@ -89,3 +89,8 @@ A poisoned context does not announce itself. It reads exactly like a good one, w
 - Atharv Singh Patlan, Ashwin Hebbar, Pramod Viswanath, and Prateek Mittal, "Context manipulation attacks: Web agents are susceptible to corrupted memory," arXiv:2506.17318 (2025). Introduces *plan injection* — "a novel context manipulation attack that corrupts these agents' internal task representations by targeting this vulnerable context" — reaching "up to 3x higher attack success rates than comparable prompt-based attacks," because stateless models "rely heavily on external memory systems to maintain context across interactions." Source for cross-session memory poisoning. https://arxiv.org/abs/2506.17318
 - Kelly Hong, Anton Troynikov, and Jeff Huber, "Context Rot: How Increasing Input Tokens Impacts LLM Performance," Chroma Technical Report (July 2025). "Even a single distractor reduces performance relative to the baseline," the effect "amplifies as input length grows," and "adding irrelevant context … forc[es] the model to perform two tasks simultaneously." Source for the accidental-door / distractor mechanism of self-poisoning. https://www.trychroma.com/research/context-rot
 - Nelson F. Liu, Kevin Lin, John Hewitt, Ashwin Paranjape, Michele Bevilacqua, Fabio Petroni, and Percy Liang, "Lost in the Middle: How Language Models Use Long Contexts," *Transactions of the Association for Computational Linguistics* 12 (2024): 157–173. Performance degrades when relevant information must be accessed from the middle of a long context — cited here to mark the distinction between degradation-of-correct-context (the economy problem) and corruption-of-context (this page). https://aclanthology.org/2024.tacl-1.9/
+
+
+---
+
+↑ Back to **[Part VI — Anti-Patterns and Practical Failures](/en/handbook/part-vi)** · [Handbook index](/en/handbook)
