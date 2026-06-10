@@ -2,7 +2,7 @@
 title: Part III — Protocols and Practices
 description: 
 published: true
-date: 2026-06-10T11:21:45.925Z
+date: 2026-06-10T17:15:48.307Z
 tags: index, protocols
 editor: markdown
 dateCreated: 2026-04-01T11:35:24.707Z
@@ -36,3 +36,8 @@ The focus is operational: what people actually do, how roles are negotiated, and
 - **[Pattern: Context-Window Economy](/en/handbook/part-iii/context-window-economy)** — Managing computational and economic scarcity by optimizing token passing in multi-agent orchestration. *(Implementation example in-body: workflow nodes.)* — `operationalize`
 - **[Pattern: Asymmetric Collaboration](/en/handbook/part-iii/asymmetric-collaboration)** — Coordinating slow biological thinking with the instant, continuous activation of models in asynchronous workflows. — `operationalize`
 - **[Pattern: The Shared Ledger of Knowledge](/en/handbook/part-iii/shared-ledger)** — The decentralized local register where peers deposit insights that survived the friction cycles. — `operationalize`
+
+
+---
+
+↑ [Home](/en/home) · [Handbook](/en/handbook)
