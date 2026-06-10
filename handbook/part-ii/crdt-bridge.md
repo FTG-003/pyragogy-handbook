@@ -2,7 +2,7 @@
 title: CRDT Bridge
 description: CRDT Bridge — a project coinage that borrows the conflict-free replicated data type from distributed-systems literature to name the logical convergence of shared knowledge across a human-machine group with no central authority that validates what is true.
 published: true
-date: 2026-06-10T16:59:09.240Z
+date: 2026-06-10T17:16:21.076Z
 tags: pyragogy, definition, coinage, crdt, convergence, distributed-knowledge
 editor: markdown
 dateCreated: 2026-06-10T11:13:28.263Z
@@ -80,4 +80,4 @@ So CRDT Bridge, named here, does little more for now than borrow one precise ide
 
 ---
 
-↑ Back to **[Part II — Core Concepts](/en/handbook/part-ii)** · [Handbook index](/en/handbook)
+↑ Back to **[Part II — Core Concepts](/en/handbook/part-ii)** · [Handbook](/en/handbook) · [Home](/en/home)
