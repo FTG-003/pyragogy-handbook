@@ -2,7 +2,7 @@
 title: Anti-Pattern: Context Poisoning
 description: Context Poisoning: the failure where unfiltered raw data or redundant backstage logs corrupt an agent's working memory — distinct from the scarcity problem of the context window, because here the window is not too small but contaminated, and the contamina
 published: true
-date: 2026-06-10T16:59:41.411Z
+date: 2026-06-10T17:16:54.497Z
 tags: memory, anti-pattern, failure-modes, context, prompt-injection, security
 editor: markdown
 dateCreated: 2026-06-10T11:21:30.223Z
@@ -93,4 +93,4 @@ A poisoned context does not announce itself. It reads exactly like a good one, w
 
 ---
 
-↑ Back to **[Part VI — Anti-Patterns and Practical Failures](/en/handbook/part-vi)** · [Handbook index](/en/handbook)
+↑ Back to **[Part VI — Anti-Patterns and Practical Failures](/en/handbook/part-vi)** · [Handbook](/en/handbook) · [Home](/en/home)
