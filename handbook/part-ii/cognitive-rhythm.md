@@ -2,7 +2,7 @@
 title: Cognitive Rhythm
 description: Cognitive Rhythm — a project coinage for the alternation of internal-processing, friction, and expression cycles across human and synthetic nodes in a learning group, and why their tempos do not match.
 published: true
-date: 2026-06-10T16:58:53.304Z
+date: 2026-06-10T17:16:05.298Z
 tags: pyragogy, definition, rhythm, cognition
 editor: markdown
 dateCreated: 2026-06-10T11:13:10.558Z
@@ -72,4 +72,4 @@ So the term does little more, for now, than give a name to two clocks that will 
 
 ---
 
-↑ Back to **[Part II — Core Concepts](/en/handbook/part-ii)** · [Handbook index](/en/handbook)
+↑ Back to **[Part II — Core Concepts](/en/handbook/part-ii)** · [Handbook](/en/handbook) · [Home](/en/home)
