@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <style>
+    text { font-family: 'IBM Plex Mono', monospace; }
+    text, .stroke-main { fill: #1a1a1a; stroke: #1a1a1a; }
+    text { stroke-width: 0; }
+  </style>
+  <defs>
+    <marker id="aIndigo" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#6366f1"></path></marker>
+  </defs>
+
+  
+  <rect x="0" y="0" width="800" height="400" rx="2" fill="#faf9f6"></rect>
+
+  <text x="400" y="40" text-anchor="middle" font-size="13" font-weight="700">two forces push one way — the return vector is missing</text>
+
+  
+  <rect x="80" y="180" width="110" height="44" rx="2" stroke="#f59e0b" stroke-width="2" fill="none"></rect>
+  <text x="135" y="207" text-anchor="middle" font-size="13">Human</text>
+  <rect x="610" y="180" width="110" height="44" rx="2" stroke="#6366f1" stroke-width="2" fill="none"></rect>
+  <text x="665" y="207" text-anchor="middle" font-size="13">Agent</text>
+
+  
+  <text x="565" y="70" text-anchor="middle" font-size="11">reward: agree</text>
+  <text x="730" y="70" text-anchor="middle" font-size="11">engagement: retain</text>
+  <line x1="565" y1="80" x2="650" y2="176" stroke="#6366f1" stroke-width="2" marker-end="url(#aIndigo)"></line>
+  <line x1="730" y1="80" x2="685" y2="176" stroke="#6366f1" stroke-width="2" marker-end="url(#aIndigo)"></line>
+
+  
+  <text x="400" y="150" text-anchor="middle" font-size="12">friction (missing)</text>
+  <line x1="600" y1="170" x2="200" y2="170" class="stroke-main" stroke-width="1" style="fill:none" stroke-dasharray="1,7" opacity="0.45"></line>
+
+  
+  <line x1="608" y1="210" x2="192" y2="210" stroke="#6366f1" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#aIndigo)"></line>
+  <text x="400" y="232" text-anchor="middle" font-size="11">no pushback</text>
+
+  <text x="400" y="378" text-anchor="middle" font-size="11">a mirror, not a peer</text>
+</svg>
