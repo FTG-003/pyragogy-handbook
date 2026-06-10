@@ -2,7 +2,7 @@
 title: Pattern: Context-Window Economy
 description: Context-Window Economy: the discipline of treating an agent's context window as a scarce, billed, and degrading resource — deciding what each model is handed rather than passing the whole conversation everywhere, because more context is not more competenc
 published: true
-date: 2026-06-10T11:21:04.358Z
+date: 2026-06-10T16:59:18.308Z
 tags: pyragogy, pattern, context-window, tokens, orchestration, cost, lost-in-the-middle
 editor: markdown
 dateCreated: 2026-06-10T11:21:04.358Z
@@ -74,3 +74,8 @@ None of these has a fix in the configuration. They are reasons the pattern needs
 - Nelson F. Liu, Kevin Lin, John Hewitt, Ashwin Paranjape, Michele Bevilacqua, Fabio Petroni, and Percy Liang, "Lost in the Middle: How Language Models Use Long Contexts," *Transactions of the Association for Computational Linguistics* 12 (2024): 157–173. Performance is highest when relevant information sits at the start or end of the input and degrades significantly when it must be accessed from the middle of a long context — including in models designed for long inputs. https://aclanthology.org/2024.tacl-1.9/ (preprint: https://arxiv.org/abs/2307.03172)
 - Kelly Hong, Anton Troynikov, and Jeff Huber, "Context Rot: How Increasing Input Tokens Impacts LLM Performance," Chroma Technical Report (July 14, 2025). Eighteen models (frontier and open-weights — Claude, GPT, Gemini, Qwen) show performance varying significantly as input length grows, even on deliberately simple tasks — the basis for treating a longer window as lower-signal, not merely more expensive. https://www.trychroma.com/research/context-rot
 - OpenAI API pricing — usage billed per token, input and output rated separately, quoted per million tokens; the basis for the claim that re-passing accumulated context at every handoff re-incurs its full input cost each time (in-body example of a commercial per-token pricing model). https://developers.openai.com/api/docs/pricing
+
+
+---
+
+↑ Back to **[Part III — Protocols and Practices](/en/handbook/part-iii)** · [Handbook index](/en/handbook)
