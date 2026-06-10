@@ -2,7 +2,7 @@
 title: Long-Term Cognitive Co-Evolution
 description: What happens to a mind, and to a model, after years of permanent structural coupling? Two slow degradations run in parallel — the human hollows, the model collapses on its own output — and the handbook cannot yet say where they meet.
 published: true
-date: 2026-06-10T16:59:46.105Z
+date: 2026-06-10T17:16:58.877Z
 tags: pyragogy, cognition, open-question, model-collapse, dependency, co-evolution
 editor: markdown
 dateCreated: 2026-06-10T11:21:36.322Z
@@ -67,4 +67,4 @@ The two clocks may not tick together. We have set down what each one is, marked 
 
 ---
 
-↑ Back to **[Part VII — Open Questions](/en/handbook/part-vii)** · [Handbook index](/en/handbook)
+↑ Back to **[Part VII — Open Questions](/en/handbook/part-vii)** · [Handbook](/en/handbook) · [Home](/en/home)
