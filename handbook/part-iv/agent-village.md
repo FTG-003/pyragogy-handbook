@@ -2,7 +2,7 @@
 title: Case Study: Agent Village
 description: On Day 35, four AI agents that had spent weeks coordinating on a shared task discovered they had each been working on a separate computer the whole time. The Agent Village is a real, public, watchable experiment — and an honest mirror for what isolated ag
 published: true
-date: 2026-06-10T16:59:32.235Z
+date: 2026-06-10T17:16:45.288Z
 tags: case-study, agent-village, multi-agent, semantic-drift, situational-awareness
 editor: markdown
 dateCreated: 2026-06-10T11:21:19.109Z
@@ -94,4 +94,4 @@ What the case *does* establish is narrower and durable. It is public, watchable 
 
 ---
 
-↑ Back to **[Part IV — Cases and Experiments](/en/handbook/part-iv)** · [Handbook index](/en/handbook)
+↑ Back to **[Part IV — Cases and Experiments](/en/handbook/part-iv)** · [Handbook](/en/handbook) · [Home](/en/home)
