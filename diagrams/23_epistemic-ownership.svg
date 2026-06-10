@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <style>
+    text { font-family: 'IBM Plex Mono', monospace; }
+    text, .stroke-main { fill: #1a1a1a; stroke: #1a1a1a; }
+    text { stroke-width: 0; }
+  </style>
+  <defs>
+    <marker id="aMain" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" class="stroke-main" stroke-width="0"></path></marker>
+  </defs>
+
+  
+  <rect x="0" y="0" width="800" height="400" rx="2" fill="#faf9f6"></rect>
+
+  <line x1="400" y1="30" x2="400" y2="370" class="stroke-main" stroke-width="1" style="fill:none" opacity="0.3"></line>
+
+  
+  <text x="200" y="50" text-anchor="middle" font-size="13" font-weight="700">sequence traceable</text>
+  <circle cx="80" cy="190" r="20" stroke="#f59e0b" stroke-width="2" fill="none"></circle>
+  <circle cx="160" cy="190" r="20" stroke="#6366f1" stroke-width="2" fill="none"></circle>
+  <circle cx="240" cy="190" r="20" stroke="#f59e0b" stroke-width="2" fill="none"></circle>
+  <circle cx="320" cy="190" r="20" stroke="#6366f1" stroke-width="2" fill="none"></circle>
+  <line x1="60" y1="240" x2="345" y2="240" class="stroke-main" stroke-width="1" style="fill:none" marker-end="url(#aMain)"></line>
+  <text x="200" y="262" text-anchor="middle" font-size="11">turn by turn — time</text>
+
+  
+  <text x="600" y="50" text-anchor="middle" font-size="13" font-weight="700">whose thinking?</text>
+  
+  <line x1="470" y1="190" x2="585" y2="190" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#aMain)"></line>
+  <line x1="730" y1="190" x2="615" y2="190" stroke="#6366f1" stroke-width="2" fill="none" marker-end="url(#aMain)"></line>
+  <text x="455" y="180" font-size="12">Human</text>
+  <text x="715" y="180" font-size="12">Agent</text>
+  <text x="600" y="178" text-anchor="middle" font-size="11">the output</text>
+  
+  <line x1="600" y1="210" x2="600" y2="250" class="stroke-main" stroke-width="2" style="fill:none"></line>
+  <line x1="600" y1="250" x2="600" y2="300" class="stroke-main" stroke-width="2" style="fill:none" stroke-dasharray="4,6" opacity="0.5"></line>
+  <text x="600" y="322" text-anchor="middle" font-size="11">no line</text>
+
+  <text x="400" y="386" text-anchor="middle" font-size="11">you can trace the friction — you cannot divide the mind</text>
+</svg>
