@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <style>
+    text { font-family: 'IBM Plex Mono', monospace; }
+    text, .stroke-main { fill: #1a1a1a; stroke: #1a1a1a; }
+    text { stroke-width: 0; }
+  </style>
+  <defs>
+    <marker id="aAmber" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#f59e0b"></path></marker>
+    <marker id="aIndigo" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#6366f1"></path></marker>
+    <marker id="aMain" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" class="stroke-main" stroke-width="0"></path></marker>
+  </defs>
+
+  
+  <rect x="0" y="0" width="800" height="400" rx="2" fill="#faf9f6"></rect>
+
+  <text x="400" y="40" text-anchor="middle" font-size="13" font-weight="700">apart, then back — a closed motion</text>
+
+  
+  <circle cx="110" cy="200" r="14" class="stroke-main" stroke-width="2" style="fill:none"></circle>
+  <text x="110" y="245" text-anchor="middle" font-size="12">shared origin</text>
+
+  
+  <circle cx="690" cy="200" r="14" class="stroke-main" stroke-width="2" style="fill:none"></circle>
+
+  
+  <path d="M124,194 C230,120 330,120 410,150" fill="none" stroke="#f59e0b" stroke-width="2"></path>
+  <path d="M410,150 C490,180 600,180 678,196" fill="none" stroke="#f59e0b" stroke-width="2" marker-end="url(#aAmber)"></path>
+  <circle cx="410" cy="150" r="5" fill="#f59e0b"></circle>
+
+  
+  <path d="M124,206 C260,290 470,300 580,272" fill="none" stroke="#6366f1" stroke-width="2" stroke-dasharray="4,4"></path>
+  <path d="M580,272 C640,258 668,232 680,210" fill="none" stroke="#6366f1" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#aIndigo)"></path>
+  <circle cx="580" cy="272" r="5" fill="#6366f1"></circle>
+
+  
+  <text x="270" y="108" text-anchor="middle" font-size="13">Human</text>
+  <text x="500" y="316" text-anchor="middle" font-size="13">Agent</text>
+
+  
+  <text x="400" y="205" text-anchor="middle" font-size="13">explore apart</text>
+
+  
+  <text x="600" y="300" text-anchor="middle" font-size="11">farther reach</text>
+
+  
+  <text x="690" y="245" text-anchor="middle" font-size="13">keep / discard</text>
+  <text x="690" y="262" text-anchor="middle" font-size="11">one verdict</text>
+</svg>
