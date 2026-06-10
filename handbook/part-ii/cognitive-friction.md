@@ -2,7 +2,7 @@
 title: Cognitive Friction
 description: Cognitive friction in Pyragogy: intentional informational resistance that interrupts confirmation bias and forces critical thought — distinct from Alan Cooper's interaction-design sense of the term.
 published: true
-date: 2026-06-10T16:58:55.761Z
+date: 2026-06-10T17:16:07.724Z
 tags: pyragogy, definition, cognitive-friction, desirable-difficulties, confirmation-bias
 editor: markdown
 dateCreated: 2026-06-10T11:13:13.668Z
@@ -50,4 +50,4 @@ Cognitive friction, then, is not a feature you switch on. It is a wager that the
 
 ---
 
-↑ Back to **[Part II — Core Concepts](/en/handbook/part-ii)** · [Handbook index](/en/handbook)
+↑ Back to **[Part II — Core Concepts](/en/handbook/part-ii)** · [Handbook](/en/handbook) · [Home](/en/home)
