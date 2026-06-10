@@ -2,7 +2,7 @@
 title: Synthesis Architecture
 description: Synthesis Architecture — the logical topology of the self-hosted infrastructure that supports a human–machine learning graph, drawn as an abstraction of guarantees rather than a setup tutorial: what the architecture must hold, kept separate from the swapp
 published: true
-date: 2026-06-10T11:21:21.972Z
+date: 2026-06-10T16:59:34.624Z
 tags: pyragogy, infrastructure, architecture, topology, self-hosting, synthesis
 editor: markdown
 dateCreated: 2026-06-10T11:21:21.972Z
@@ -81,3 +81,8 @@ The Synthesis Architecture, then, is not a system you can boot. It is the set of
 - Self-hosting (web services), *Wikipedia*. https://en.wikipedia.org/wiki/Self-hosting_(web_services) — defines self-hosting as running a service "using a private server, instead of using a service outside of the administrator's own control," motivated by control, privacy, and independence from a for-profit intermediary. Used for the claim that self-hosting is the infrastructure-level form of the no-central-authority guarantee. (Definition and motivation verified verbatim.)
 - Marc Shapiro, Nuno Preguiça, Carlos Baquero, and Marek Zawirski, "Conflict-Free Replicated Data Types," in *Stabilization, Safety, and Security of Distributed Systems — SSS 2011*, Lecture Notes in Computer Science 6976 (Berlin: Springer, 2011), 386–400. https://doi.org/10.1007/978-3-642-24550-3_29 — the convergence-without-a-central-authority result that guarantee three borrows, cited in full on the [CRDT Bridge](/en/handbook/part-ii/crdt-bridge) page. Listed here because the "no master node" property of the topology rests on that borrow; the established result concerns data structures, and its application to a learning network's shared knowledge is, as flagged, a wager rather than a theorem.
 - Tool examples named in the body are products, not citations, and appear only as illustrations of the physical layer: the self-hostable deployment platform [Coolify](https://coolify.io/) ("an open-source & self-hostable alternative to Vercel, Heroku, Netlify and Railway"); cloud hosting from [Hetzner](https://www.hetzner.com/cloud); the source-available workflow-automation engine [n8n](https://n8n.io/); the open-source backend platform [Appwrite](https://appwrite.io/) (Auth, Databases, Storage, Functions, Realtime); the model gateway [OpenRouter](https://openrouter.ai/) ("the unified interface for LLMs," routing to many providers behind one API); and the note vault [Obsidian](https://obsidian.md/). Each was reachable (HTTP 200) and its description verified at synthesis time; none is load-bearing for any definition on this page, and each is expected to change.
+
+
+---
+
+↑ Back to **[Part V — Infrastructure](/en/handbook/part-v)** · [Handbook index](/en/handbook)
