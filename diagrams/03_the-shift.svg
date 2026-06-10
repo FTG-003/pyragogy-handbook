@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <style>
+    text { font-family: 'IBM Plex Mono', monospace; }
+    text, .stroke-main { fill: #1a1a1a; stroke: #1a1a1a; }
+    text { stroke-width: 0; }
+  </style>
+  <defs>
+    <marker id="aAmber" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#f59e0b"></path></marker>
+    <marker id="aIndigo" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#6366f1"></path></marker>
+    <marker id="aMain" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" class="stroke-main" stroke-width="0"></path></marker>
+  </defs>
+
+  
+  <rect x="0" y="0" width="800" height="400" rx="2" fill="#faf9f6"></rect>
+
+  <line x1="400" y1="28" x2="400" y2="372" class="stroke-main" stroke-width="1" style="fill:none"></line>
+
+  
+  <text x="200" y="34" text-anchor="middle" font-size="15" font-weight="700">AS A TOOL</text>
+  <text x="200" y="54" text-anchor="middle" font-size="11">thinking stays your side</text>
+
+  
+  <line x1="232" y1="120" x2="232" y2="290" class="stroke-main" stroke-width="1" style="fill:none" stroke-dasharray="2,4"></line>
+  <text x="232" y="306" text-anchor="middle" font-size="10">handle</text>
+
+  
+  <rect x="80" y="160" width="100" height="44" rx="2" stroke="#f59e0b" stroke-width="2" fill="none"></rect>
+  <text x="130" y="187" text-anchor="middle" font-size="13">Human</text>
+
+  
+  <line x1="180" y1="172" x2="288" y2="172" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#aAmber)"></line>
+  
+  <line x1="288" y1="192" x2="182" y2="192" class="stroke-main" stroke-width="1" style="fill:none" marker-end="url(#aMain)"></line>
+
+  
+  <rect x="272" y="142" width="72" height="80" rx="2" class="stroke-main" stroke-width="1" style="fill:none" stroke-dasharray="4,4"></rect>
+  <rect x="284" y="162" width="48" height="40" rx="2" stroke="#6366f1" stroke-width="2" fill="none"></rect>
+  <text x="308" y="187" text-anchor="middle" font-size="12">tool</text>
+  <text x="308" y="240" text-anchor="middle" font-size="10">picked up / put down</text>
+
+  <text x="200" y="360" text-anchor="middle" font-size="11">downstream — transient</text>
+
+  
+  <text x="600" y="34" text-anchor="middle" font-size="15" font-weight="700">AS CO-PRESENCE</text>
+  <text x="600" y="54" text-anchor="middle" font-size="11">sits inside the exchange</text>
+
+  
+  <rect x="470" y="120" width="260" height="170" rx="2" class="stroke-main" stroke-width="1" style="fill:none"></rect>
+
+  
+  <text x="600" y="200" text-anchor="middle" font-size="13">present</text>
+
+  
+  <rect x="490" y="150" width="100" height="44" rx="2" stroke="#f59e0b" stroke-width="2" fill="none"></rect>
+  <text x="540" y="177" text-anchor="middle" font-size="13">Human</text>
+  <text x="540" y="262" text-anchor="middle" font-size="10">stake held</text>
+
+  
+  <rect x="610" y="150" width="100" height="44" rx="2" stroke="#6366f1" stroke-width="2" stroke-dasharray="4,4" fill="none"></rect>
+  <text x="660" y="177" text-anchor="middle" font-size="13">Agent</text>
+  <text x="660" y="262" text-anchor="middle" font-size="10">no stake / resets</text>
+
+  
+  <line x1="555" y1="210" x2="592" y2="210" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#aAmber)"></line>
+  <line x1="645" y1="210" x2="608" y2="210" stroke="#6366f1" stroke-width="2" fill="none" marker-end="url(#aIndigo)"></line>
+
+  <text x="600" y="360" text-anchor="middle" font-size="11">boundary crossed — persists</text>
+</svg>
