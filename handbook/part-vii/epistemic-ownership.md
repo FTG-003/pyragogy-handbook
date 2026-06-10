@@ -2,7 +2,7 @@
 title: The Epistemic Ownership Dilemma
 description: When an insight is forged in inseparable friction between a person and a model, who owns it? A dilemma the handbook leaves open: the law answers cleanly, the experience does not.
 published: true
-date: 2026-06-10T11:21:33.065Z
+date: 2026-06-10T16:59:43.842Z
 tags: pyragogy, open-question, authorship, copyright, epistemics
 editor: markdown
 dateCreated: 2026-06-10T11:21:33.065Z
@@ -65,3 +65,8 @@ Where this leaves the practitioner is uncomfortable, and we will not smooth it. 
 - U.S. Copyright Office, *Copyright and Artificial Intelligence, Part 2: Copyrightability* (January 29, 2025) — human authorship as a bedrock requirement; "prompts alone do not provide sufficient human control" to make the user the author of AI output. Part 2 PDF (verbatim quoted language): https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf; hub page: https://www.copyright.gov/ai/ (summary: Skadden, Arps, "Copyright Office Publishes Report on Copyrightability of AI-Generated Materials," Feb 2025, https://www.skadden.com/insights/publications/2025/02/copyright-office-publishes-report)
 - On AI and authorship (copyright): *Thaler v. Perlmutter*, No. 23-5233, 130 F.4th 1039 (D.C. Cir. Mar 18, 2025), affirming the human-authorship requirement; cert. denied, No. 25-449 (U.S., Mar 2, 2026). Summary with the full procedural chain: https://constitutioncenter.org/blog/supreme-court-denies-artificial-intelligence-authorship-claim-for-artwork-copyright
 - On AI and inventorship (patents): the DABUS cases — *Thaler v. Vidal*, 43 F.4th 1207 (Fed. Cir. 2022) ("the Patent Act limits inventorship to natural persons"; cert. denied); *Thaler v Comptroller-General*, [2023] UKSC 49 (UK, 20 Dec 2023); EPO Boards of Appeal J 8/20 & J 9/20. Summary covering authorship and inventorship: https://www.hklaw.com/en/insights/publications/2026/03/the-final-word-supreme-court-refuses-to-hear-case-on-ai-authorship
+
+
+---
+
+↑ Back to **[Part VII — Open Questions](/en/handbook/part-vii)** · [Handbook index](/en/handbook)
