@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <style>
+    text { font-family: 'IBM Plex Mono', monospace; }
+    text, .stroke-main { fill: #1a1a1a; stroke: #1a1a1a; }
+    text { stroke-width: 0; }
+  </style>
+  <defs>
+    <marker id="aAmber" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#f59e0b"></path></marker>
+    <marker id="aIndigo" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#6366f1"></path></marker>
+    <marker id="aMain" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" class="stroke-main" stroke-width="0"></path></marker>
+  </defs>
+
+  
+  <rect x="0" y="0" width="800" height="400" rx="2" fill="#faf9f6"></rect>
+
+  <text x="400" y="28" text-anchor="middle" font-size="13" font-weight="700">isolated readings — one synthesis</text>
+
+  
+  <rect x="36" y="166" width="104" height="48" rx="2" stroke="#f59e0b" stroke-width="2" fill="none"></rect>
+  <text x="88" y="188" text-anchor="middle" font-size="13">Human</text>
+  <text x="88" y="204" text-anchor="middle" font-size="10">document</text>
+
+  
+  <line x1="140" y1="190" x2="278" y2="76" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#aAmber)"></line>
+  <line x1="140" y1="190" x2="278" y2="152" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#aAmber)"></line>
+  <line x1="140" y1="190" x2="278" y2="228" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#aAmber)"></line>
+  <line x1="140" y1="190" x2="278" y2="304" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#aAmber)"></line>
+
+  
+  <rect x="282" y="50" width="150" height="46" rx="2" stroke="#6366f1" stroke-width="2" fill="none"></rect>
+  <text x="357" y="71" text-anchor="middle" font-size="13">Agent</text>
+  <text x="357" y="87" text-anchor="middle" font-size="10">reads sources</text>
+
+  <rect x="282" y="126" width="150" height="46" rx="2" stroke="#6366f1" stroke-width="2" fill="none"></rect>
+  <text x="357" y="147" text-anchor="middle" font-size="13">Agent</text>
+  <text x="357" y="163" text-anchor="middle" font-size="10">reads agreement</text>
+
+  <rect x="282" y="202" width="150" height="46" rx="2" stroke="#6366f1" stroke-width="2" fill="none"></rect>
+  <text x="357" y="223" text-anchor="middle" font-size="13">Agent</text>
+  <text x="357" y="239" text-anchor="middle" font-size="10">reads distortion</text>
+  
+  <line x1="298" y1="194" x2="416" y2="194" class="stroke-main" stroke-width="1" style="fill:none"></line>
+  <line x1="298" y1="191" x2="298" y2="197" class="stroke-main" stroke-width="1" style="fill:none"></line>
+  <line x1="327" y1="191" x2="327" y2="197" class="stroke-main" stroke-width="1" style="fill:none"></line>
+  <line x1="357" y1="191" x2="357" y2="197" class="stroke-main" stroke-width="1" style="fill:none"></line>
+  <line x1="386" y1="191" x2="386" y2="197" class="stroke-main" stroke-width="1" style="fill:none"></line>
+  <line x1="416" y1="191" x2="416" y2="197" class="stroke-main" stroke-width="1" style="fill:none"></line>
+  <text x="293" y="186" text-anchor="start" font-size="9">1</text>
+  <text x="421" y="186" text-anchor="end" font-size="9">5</text>
+
+  <rect x="282" y="278" width="150" height="46" rx="2" stroke="#6366f1" stroke-width="2" fill="none"></rect>
+  <text x="357" y="299" text-anchor="middle" font-size="13">Agent</text>
+  <text x="357" y="315" text-anchor="middle" font-size="10">reads gaps</text>
+
+  
+  <line x1="282" y1="111" x2="432" y2="111" class="stroke-main" stroke-width="1" style="fill:none"></line>
+  <line x1="282" y1="187" x2="432" y2="187" class="stroke-main" stroke-width="1" style="fill:none"></line>
+  <line x1="282" y1="263" x2="432" y2="263" class="stroke-main" stroke-width="1" style="fill:none"></line>
+  <text x="357" y="345" text-anchor="middle" font-size="10">no shared view</text>
+
+  
+  <line x1="432" y1="73" x2="566" y2="178" stroke="#6366f1" stroke-width="2" fill="none" marker-end="url(#aIndigo)"></line>
+  <line x1="432" y1="149" x2="566" y2="186" stroke="#6366f1" stroke-width="2" fill="none" marker-end="url(#aIndigo)"></line>
+  <line x1="432" y1="225" x2="566" y2="194" stroke="#6366f1" stroke-width="2" fill="none" marker-end="url(#aIndigo)"></line>
+  <line x1="432" y1="301" x2="566" y2="202" stroke="#6366f1" stroke-width="2" fill="none" marker-end="url(#aIndigo)"></line>
+
+  
+  <rect x="570" y="160" width="118" height="60" rx="2" stroke="#6366f1" stroke-width="2" fill="none"></rect>
+  <text x="629" y="184" text-anchor="middle" font-size="13">Agent</text>
+  <text x="629" y="200" text-anchor="middle" font-size="10">names</text>
+  <text x="629" y="213" text-anchor="middle" font-size="10">collisions</text>
+  <text x="629" y="148" text-anchor="middle" font-size="10">tension kept</text>
+
+  
+  <line x1="688" y1="190" x2="772" y2="190" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#aAmber)"></line>
+  <text x="730" y="180" text-anchor="middle" font-size="10">open question</text>
+  <text x="730" y="218" text-anchor="middle" font-size="10">to Human</text>
+</svg>
