@@ -2,7 +2,7 @@
 title: The Newcomer Protocol (Human & Agent)
 description: The cognitive contract for admitting a new participant — human or agent — into a Pyragogy network: what it must receive, what it must accept, and why the two onboardings diverge.
 published: true
-date: 2026-06-10T16:59:11.466Z
+date: 2026-06-10T17:16:23.190Z
 tags: pyragogy, protocol, onboarding, communities-of-practice, agents
 editor: markdown
 dateCreated: 2026-06-10T11:13:32.532Z
@@ -92,4 +92,4 @@ The protocol, then, is not a finished door with a finished key. It is the recogn
 
 ---
 
-↑ Back to **[Part III — Protocols and Practices](/en/handbook/part-iii)** · [Handbook index](/en/handbook)
+↑ Back to **[Part III — Protocols and Practices](/en/handbook/part-iii)** · [Handbook](/en/handbook) · [Home](/en/home)
