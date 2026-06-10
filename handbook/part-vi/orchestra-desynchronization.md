@@ -2,7 +2,7 @@
 title: Anti-Pattern: Orchestra Desynchronization
 description: How a multi-agent pipeline breaks down — infinite loops, hallucination that propagates between agents, semantic deadlocks — and the emergency procedures that stop the network from running on confidently while wrong.
 published: true
-date: 2026-06-10T11:21:27.337Z
+date: 2026-06-10T16:59:39.177Z
 tags: anti-pattern, orchestration, multi-agent, failure-modes, emergency-procedures
 editor: markdown
 dateCreated: 2026-06-10T11:21:27.337Z
@@ -88,3 +88,8 @@ The orchestra metaphor has a limit, and it is the right note to end on. A real o
 - Jiaming Qu, Lucheng Fu, and Yibo Hu, "Easier to Mislead Than to Correct: Harmful and Beneficial Revision in LLM Conformity," arXiv:2606.01637 (2026). Measures the asymmetry of peer pressure in multi-agent settings — peer agreement raised harmful revision of initially-correct models from 15.6% to 62.9% — and concludes that peer answers should be verified before they are aggregated into a final decision. https://arxiv.org/abs/2606.01637
 </content>
 </invoke>
+
+
+---
+
+↑ Back to **[Part VI — Anti-Patterns and Practical Failures](/en/handbook/part-vi)** · [Handbook index](/en/handbook)
