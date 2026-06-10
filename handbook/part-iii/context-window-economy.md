@@ -2,7 +2,7 @@
 title: Pattern: Context-Window Economy
 description: Context-Window Economy: the discipline of treating an agent's context window as a scarce, billed, and degrading resource — deciding what each model is handed rather than passing the whole conversation everywhere, because more context is not more competenc
 published: true
-date: 2026-06-10T16:59:18.308Z
+date: 2026-06-10T17:16:31.169Z
 tags: pyragogy, pattern, context-window, tokens, orchestration, cost, lost-in-the-middle
 editor: markdown
 dateCreated: 2026-06-10T11:21:04.358Z
@@ -78,4 +78,4 @@ None of these has a fix in the configuration. They are reasons the pattern needs
 
 ---
 
-↑ Back to **[Part III — Protocols and Practices](/en/handbook/part-iii)** · [Handbook index](/en/handbook)
+↑ Back to **[Part III — Protocols and Practices](/en/handbook/part-iii)** · [Handbook](/en/handbook) · [Home](/en/home)
