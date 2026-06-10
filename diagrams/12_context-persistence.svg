@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <style>
+    text { font-family: 'IBM Plex Mono', monospace; }
+    text, .stroke-main { fill: #1a1a1a; stroke: #1a1a1a; }
+    text { stroke-width: 0; }
+  </style>
+  <defs>
+    <marker id="aAmber" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#f59e0b"></path></marker>
+    <marker id="aIndigo" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#6366f1"></path></marker>
+    <marker id="aMain" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" class="stroke-main" stroke-width="0"></path></marker>
+  </defs>
+
+  
+  <rect x="0" y="0" width="800" height="400" rx="2" fill="#faf9f6"></rect>
+
+  <text x="400" y="34" text-anchor="middle" font-size="13" font-weight="700">anchor the session, or it evaporates</text>
+
+  
+  <rect x="60" y="120" width="300" height="200" rx="2" class="stroke-main" stroke-width="2" stroke-dasharray="4,4" style="fill:none"></rect>
+  <text x="210" y="146" text-anchor="middle" font-size="11">volatile session</text>
+
+  
+  <rect x="92" y="170" width="100" height="40" rx="2" stroke="#f59e0b" stroke-width="2" fill="none"></rect>
+  <text x="142" y="195" text-anchor="middle" font-size="13">Human</text>
+
+  
+  <rect x="92" y="252" width="100" height="40" rx="2" stroke="#6366f1" stroke-width="2" stroke-dasharray="4,4" fill="none"></rect>
+  <text x="142" y="277" text-anchor="middle" font-size="13">Agent</text>
+
+  
+  <text x="270" y="226" text-anchor="middle" font-size="12">shared context</text>
+  <line x1="194" y1="190" x2="252" y2="231" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#aAmber)"></line>
+  <line x1="194" y1="272" x2="252" y2="237" stroke="#6366f1" stroke-width="2" stroke-dasharray="4,4" fill="none" marker-end="url(#aIndigo)"></line>
+
+  
+  <line x1="290" y1="220" x2="330" y2="92" class="stroke-main" stroke-width="1" stroke-dasharray="4,4" style="fill:none" marker-end="url(#aMain)"></line>
+  <text x="356" y="86" text-anchor="middle" font-size="11">evaporates</text>
+
+  
+  <line x1="296" y1="244" x2="556" y2="312" class="stroke-main" stroke-width="2" style="fill:none" marker-end="url(#aMain)"></line>
+  <text x="440" y="288" text-anchor="middle" font-size="12">anchor</text>
+
+  
+  <rect x="580" y="288" width="160" height="60" rx="2" class="stroke-main" stroke-width="2" style="fill:none"></rect>
+  <text x="660" y="316" text-anchor="middle" font-size="13">persistent</text>
+  <text x="660" y="334" text-anchor="middle" font-size="13">store</text>
+  <text x="660" y="372" text-anchor="middle" font-size="11">solid — it stays</text>
+</svg>
