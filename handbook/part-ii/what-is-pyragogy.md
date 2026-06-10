@@ -1,8 +1,8 @@
 ---
 title: What is Pyragogy
-description: AI as a functional, not existential, cognitive peer in human-AI co-learning - the claim, the strongest objection, and the tensions left open.
+description: 
 published: true
-date: 2026-06-09T18:09:24.101Z
+date: 2026-06-10T16:58:50.760Z
 tags: pyragogy, definition
 editor: markdown
 dateCreated: 2026-06-09T17:20:41.480Z
@@ -68,3 +68,8 @@ Pyragogy, then, is not a case for automation. It is a wager — that an artifici
 - Soroush Saghafian and Lihi Idan, "Effective Generative AI: The Human-Algorithm Centaur." https://arxiv.org/abs/2406.10942
 - On AI and authorship (copyright): *Thaler v. Perlmutter*, No. 23-5233, 130 F.4th 1039 (D.C. Cir. Mar 18, 2025) — affirming the human-authorship requirement for "A Recent Entrance to Paradise"; cert. denied, No. 25-449 (U.S., Mar 2, 2026). Summary with the full procedural chain: https://constitutioncenter.org/blog/supreme-court-denies-artificial-intelligence-authorship-claim-for-artwork-copyright
 - On AI and inventorship (patents): the DABUS cases — *Thaler v. Vidal*, 43 F.4th 1207 (Fed. Cir. 2022) (U.S.; cert. denied; USPTO guidance Nov 2025 confirms inventors must be natural persons); *Thaler v Comptroller-General*, [2023] UKSC 49 (UK, 20 Dec 2023); EPO Boards of Appeal J 8/20 & J 9/20 — all holding an inventor must be a natural person. Summary covering authorship and inventorship: https://www.hklaw.com/en/insights/publications/2026/03/the-final-word-supreme-court-refuses-to-hear-case-on-ai-authorship
+
+
+---
+
+↑ Back to **[Part II — Core Concepts](/en/handbook/part-ii)** · [Handbook index](/en/handbook)
