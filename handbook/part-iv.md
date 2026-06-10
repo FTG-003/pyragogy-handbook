@@ -2,7 +2,7 @@
 title: Part IV — Cases and Experiments
 description: 
 published: true
-date: 2026-06-10T11:21:48.173Z
+date: 2026-06-10T17:15:50.851Z
 tags: index, cases
 editor: markdown
 dateCreated: 2026-04-01T11:39:14.172Z
@@ -29,3 +29,8 @@ The goal is not self-promotion but evidence: what was attempted, what failed, an
 - **[Case Study: Open Review](/en/handbook/part-iv/open-review)** — Peer text-review flows augmented by a synthetic Critical Reading Team. — `document`
 - **[Case Study: AI Goes to School](/en/handbook/part-iv/ai-goes-to-school)** — Empirical data and feedback from introducing pyragogical frameworks in real teaching / self-formation settings. — `document`
 - **[Case Study: Agent Village](/en/handbook/part-iv/agent-village)** — Emergent dynamics and semantic drift of isolated multi-agent clusters operating without human micro-management. — `document`
+
+
+---
+
+↑ [Home](/en/home) · [Handbook](/en/handbook)
