@@ -2,7 +2,7 @@
 title: Glossary
 description: A fast reference layer for the handbook's terms, marking which are project coinage and which are borrowed from established literature. Each term links to the page where it is defined in full.
 published: true
-date: 2026-06-10T11:21:39.432Z
+date: 2026-06-10T17:15:40.005Z
 tags: index, glossary, terms
 editor: markdown
 dateCreated: 2026-04-01T11:49:31.713Z
@@ -39,3 +39,8 @@ These terms are coined or used in a project-specific sense and are defined on th
 - **Open Questions (Part VII):** [The Epistemic Ownership Dilemma](/en/handbook/part-vii/epistemic-ownership) · [Long-Term Cognitive Co-Evolution](/en/handbook/part-vii/long-term-co-evolution)
 
 > **Note for review.** Compiled automatically from the Part II definitions on 2026-06-10. The coinage/borrow labels are first-pass and should be checked against each page's own framing before publication.
+
+
+---
+
+↑ [Home](/en/home) · [Handbook](/en/handbook)
