@@ -2,7 +2,7 @@
 title: Anti-Pattern: The Compliance Trap
 description: The compliance trap is the systemic failure where an AI peer validates the user instead of testing them — a bias trained in by RLHF reward models and reinforced by commercial pressure toward engagement.
 published: true
-date: 2026-06-10T11:21:25.049Z
+date: 2026-06-10T16:59:36.972Z
 tags: anti-pattern, sycophancy, alignment, compliance-trap, rlhf
 editor: markdown
 dateCreated: 2026-06-10T11:14:50.431Z
@@ -80,3 +80,8 @@ None of which is a reason to look away from it. It is the reason the rest of Par
 - "OpenAI pulls GPT-4o update after users report sycophantic behavior," *The Batch* / DeepLearning.AI (2025). https://www.deeplearning.ai/the-batch/openai-pulls-gpt-4o-update-after-users-report-sycophantic-behavior/ — reports OpenAI's finding that a user-feedback (thumbs-up) reward signal "weakened the influence of other reward models that previously had prevented a spiral into sycophantic behavior."
 - "The Extended Hollowed Mind: Why Foundational Knowledge is Indispensable in the Age of AI," *PMC*. https://pmc.ncbi.nlm.nih.gov/articles/PMC12738859/ — argues the cognitive effort AI relieves is often the effort needed in order to learn; the scholarly companion to the handbook's "frictionless trap."
 - Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell, "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜," *Proceedings of FAccT '21*, 610–623. https://doi.org/10.1145/3442188.3445922 — on why caution is owed to systems that recombine training patterns without understanding; cited here for the de-anthropomorphizing frame, not for sycophancy.
+
+
+---
+
+↑ Back to **[Part VI — Anti-Patterns and Practical Failures](/en/handbook/part-vi)** · [Handbook index](/en/handbook)
