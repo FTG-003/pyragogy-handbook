@@ -2,7 +2,7 @@
 title: Synchronization
 description: Synchronization — a project-specific use of the term for the intermittent points at which a human-machine learning group's knowledge state briefly aligns, anchored on Herbert Clark's grounding and the team-cognition literature.
 published: true
-date: 2026-06-10T11:13:18.547Z
+date: 2026-06-10T11:20:44.105Z
 tags: pyragogy, definition, cognition, synchronization, common-ground
 editor: markdown
 dateCreated: 2026-06-10T11:13:18.547Z
