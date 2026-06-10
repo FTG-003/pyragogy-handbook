@@ -2,7 +2,7 @@
 title: Pattern: The Shared Ledger of Knowledge
 description: The Shared Ledger of Knowledge: a decentralized local register where peers deposit the insights that survived the friction — a project coinage that borrows the ledger metaphor while refusing the blockchain it usually rides in on.
 published: true
-date: 2026-06-10T11:21:09.514Z
+date: 2026-06-10T16:59:22.864Z
 tags: pyragogy, coinage, pattern, knowledge-base, commonplace-book, decentralized, ledger
 editor: markdown
 dateCreated: 2026-06-10T11:14:10.837Z
@@ -73,3 +73,8 @@ The ledger, then, is not a place to put things. It is the discipline of deciding
 
 - Commonplace book, *Wikipedia*. https://en.wikipedia.org/wiki/Commonplace_book — the personal notebook into which a reader selectively copies passages and observations worth keeping, organized by subject heading; commonplacing taught at Oxford; John Locke's 1706 indexing method; kept by Emerson, Thoreau, and Darwin. Used here for the documented lineage of *selective recording* (deposit-what-holds), and to mark precisely what the Shared Ledger forks from it: the historical practice is **personal** and **human**, where the ledger is shared and human–machine. (Definition verified verbatim: "personal notebooks used to compile any information the owner finds interesting or useful.")
 - Marc Shapiro, Nuno Preguiça, Carlos Baquero, and Marek Zawirski, "Conflict-Free Replicated Data Types," in *Stabilization, Safety, and Security of Distributed Systems — SSS 2011*, Lecture Notes in Computer Science 6976 (Berlin: Springer, 2011), 386–400. https://doi.org/10.1007/978-3-642-24550-3_29 — the convergence-without-a-central-authority property the ledger inherits via the CRDT Bridge, cited in full on that page. Listed here because the ledger's "no arbiter / no consensus mechanism" claim rests on the same borrow; the established result concerns data structures, and its application to a group's shared knowledge is, as flagged, a wager rather than a theorem.
+
+
+---
+
+↑ Back to **[Part III — Protocols and Practices](/en/handbook/part-iii)** · [Handbook index](/en/handbook)
