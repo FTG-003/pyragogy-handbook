@@ -2,7 +2,7 @@
 title: Divergence
 description: Divergence — a project-specific use of the term for the deliberate separation of a human-machine group's research paths to map different regions of a problem space, anchored on Guilford's divergent thinking and March's exploration/exploitation tradeoff.
 published: true
-date: 2026-06-10T16:59:02.494Z
+date: 2026-06-10T17:16:14.442Z
 tags: pyragogy, definition, cognition, divergence, exploration
 editor: markdown
 dateCreated: 2026-06-10T11:13:21.455Z
@@ -84,4 +84,4 @@ So Divergence, named here, does little more for now than mark the deliberate mov
 
 ---
 
-↑ Back to **[Part II — Core Concepts](/en/handbook/part-ii)** · [Handbook index](/en/handbook)
+↑ Back to **[Part II — Core Concepts](/en/handbook/part-ii)** · [Handbook](/en/handbook) · [Home](/en/home)
