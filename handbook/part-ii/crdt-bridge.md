@@ -2,7 +2,7 @@
 title: CRDT Bridge
 description: CRDT Bridge — a project coinage that borrows the conflict-free replicated data type from distributed-systems literature to name the logical convergence of shared knowledge across a human-machine group with no central authority that validates what is true.
 published: true
-date: 2026-06-10T11:20:55.805Z
+date: 2026-06-10T16:59:09.240Z
 tags: pyragogy, definition, coinage, crdt, convergence, distributed-knowledge
 editor: markdown
 dateCreated: 2026-06-10T11:13:28.263Z
@@ -76,3 +76,8 @@ So CRDT Bridge, named here, does little more for now than borrow one precise ide
 - Marc Shapiro, Nuno Preguiça, Carlos Baquero, and Marek Zawirski, "Conflict-Free Replicated Data Types," in *Stabilization, Safety, and Security of Distributed Systems — 13th International Symposium, SSS 2011, Grenoble, France*, ed. Xavier Défago, Franck Petit, and Vincent Villain, Lecture Notes in Computer Science 6976 (Berlin: Springer, 2011), 386–400. https://doi.org/10.1007/978-3-642-24550-3_29 — formal definition of CRDTs and of Strong Eventual Consistency: replicas updated independently and concurrently without coordination are mathematically guaranteed to converge to a common state. (Citation metadata verified via DBLP and the SSS 2011 proceedings record; the convergence-without-coordination claim and 2011 attribution corroborated by the Wikipedia survey below, which cites this paper as the formalization.)
 - Conflict-free replicated data type, *Wikipedia*. https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type — survey corroborating the definition ("update any replica independently, concurrently and without coordinating with other replicas"; replicas "are guaranteed to eventually converge") and attributing the 2011 formalization to Shapiro, Preguiça, Baquero, and Zawirski. Used here only to corroborate the established definition; the primary source is the SSS 2011 paper above.
 - Leslie Lamport, "Time, Clocks, and the Ordering of Events in a Distributed System," *Communications of the ACM* 21, no. 7 (1978): 558–565. https://lamport.azurewebsites.net/pubs/time-clocks.pdf — foundational result that a distributed system can impose a consistent logical order on its events without any node agreeing on a single global time; the lineage behind coordination-free convergence.
+
+
+---
+
+↑ Back to **[Part II — Core Concepts](/en/handbook/part-ii)** · [Handbook index](/en/handbook)
