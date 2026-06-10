@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <style>
+    text { font-family: 'IBM Plex Mono', monospace; }
+    text, .stroke-main { fill: #1a1a1a; stroke: #1a1a1a; }
+    text { stroke-width: 0; }
+  </style>
+  <defs>
+    <marker id="aAmber" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#f59e0b"></path></marker>
+    <marker id="aIndigo" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#6366f1"></path></marker>
+    <marker id="aMain" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" class="stroke-main" stroke-width="0"></path></marker>
+  </defs>
+
+  
+  <rect x="0" y="0" width="800" height="400" rx="2" fill="#faf9f6"></rect>
+
+  <text x="400" y="36" text-anchor="middle" font-size="13" font-weight="700">volume in — residue out</text>
+
+  
+  <text x="150" y="74" text-anchor="middle" font-size="12" font-weight="700">all said</text>
+  <line x1="92" y1="96" x2="208" y2="96" class="stroke-main" stroke-width="1"></line>
+  <line x1="92" y1="114" x2="208" y2="114" class="stroke-main" stroke-width="1" stroke-dasharray="4,4"></line>
+  <line x1="92" y1="132" x2="208" y2="132" class="stroke-main" stroke-width="1" stroke-dasharray="4,4"></line>
+  <line x1="92" y1="150" x2="208" y2="150" class="stroke-main" stroke-width="1"></line>
+  <line x1="92" y1="168" x2="208" y2="168" class="stroke-main" stroke-width="1" stroke-dasharray="4,4"></line>
+  <line x1="92" y1="186" x2="208" y2="186" class="stroke-main" stroke-width="1" stroke-dasharray="4,4"></line>
+  <line x1="92" y1="204" x2="208" y2="204" class="stroke-main" stroke-width="1" stroke-dasharray="4,4"></line>
+  <line x1="92" y1="222" x2="208" y2="222" class="stroke-main" stroke-width="1"></line>
+  <line x1="92" y1="240" x2="208" y2="240" class="stroke-main" stroke-width="1" stroke-dasharray="4,4"></line>
+  <line x1="92" y1="258" x2="208" y2="258" class="stroke-main" stroke-width="1" stroke-dasharray="4,4"></line>
+  <line x1="92" y1="276" x2="208" y2="276" class="stroke-main" stroke-width="1" stroke-dasharray="4,4"></line>
+  <line x1="92" y1="294" x2="208" y2="294" class="stroke-main" stroke-width="1"></line>
+  <line x1="92" y1="312" x2="208" y2="312" class="stroke-main" stroke-width="1" stroke-dasharray="4,4"></line>
+  <text x="150" y="342" text-anchor="middle" font-size="11">most fade</text>
+
+  
+  <text x="400" y="148" text-anchor="middle" font-size="13" font-weight="700">survived</text>
+  <text x="330" y="92" text-anchor="middle" font-size="13">Human</text>
+  <text x="470" y="92" text-anchor="middle" font-size="13">Agent</text>
+  <line x1="330" y1="104" x2="382" y2="194" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#aAmber)"></line>
+  <line x1="470" y1="104" x2="418" y2="194" stroke="#6366f1" stroke-width="2" fill="none" marker-end="url(#aIndigo)"></line>
+  <text x="400" y="232" text-anchor="middle" font-size="11">friction gap</text>
+
+  
+  <line x1="410" y1="266" x2="588" y2="266" class="stroke-main" stroke-width="2" marker-end="url(#aMain)"></line>
+  <line x1="410" y1="290" x2="588" y2="290" class="stroke-main" stroke-width="2" marker-end="url(#aMain)"></line>
+  <line x1="410" y1="314" x2="588" y2="314" class="stroke-main" stroke-width="2" marker-end="url(#aMain)"></line>
+
+  
+  <text x="678" y="74" text-anchor="middle" font-size="12" font-weight="700">deposited</text>
+  <rect x="600" y="92" width="156" height="240" rx="2" class="stroke-main" stroke-width="2" style="fill:none"></rect>
+  <line x1="618" y1="128" x2="690" y2="128" stroke="#f59e0b" stroke-width="2"></line>
+  <line x1="618" y1="166" x2="738" y2="166" stroke="#6366f1" stroke-width="2"></line>
+  <line x1="618" y1="204" x2="700" y2="204" stroke="#f59e0b" stroke-width="2"></line>
+  <line x1="618" y1="280" x2="690" y2="280" stroke="#6366f1" stroke-width="2"></line>
+  <line x1="618" y1="318" x2="730" y2="318" stroke="#f59e0b" stroke-width="2"></line>
+  <text x="678" y="360" text-anchor="middle" font-size="11">kept</text>
+</svg>
