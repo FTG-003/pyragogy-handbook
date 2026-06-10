@@ -2,7 +2,7 @@
 title: Blues Protocol
 description: Blues Protocol — a project coinage for the ritual handling of cognitive deadlock, systemic error, and frustration in a human–agent network: not a fix for failure but a structured way of staying in it long enough to make it legible.
 published: true
-date: 2026-06-10T16:59:07.022Z
+date: 2026-06-10T17:16:18.795Z
 tags: pyragogy, definition, blues-protocol, failure, repair, ritual, coinage
 editor: markdown
 dateCreated: 2026-06-10T11:13:25.322Z
@@ -79,4 +79,4 @@ A deadlock, then, is not a thing to be cleared on sight. It is the moment the ne
 
 ---
 
-↑ Back to **[Part II — Core Concepts](/en/handbook/part-ii)** · [Handbook index](/en/handbook)
+↑ Back to **[Part II — Core Concepts](/en/handbook/part-ii)** · [Handbook](/en/handbook) · [Home](/en/home)
