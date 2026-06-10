@@ -2,7 +2,7 @@
 title: Part I — The Shift
 description: 
 published: true
-date: 2026-06-10T11:21:41.621Z
+date: 2026-06-10T17:15:42.733Z
 tags: index, shift
 editor: markdown
 dateCreated: 2026-04-01T11:19:26.340Z
@@ -28,3 +28,8 @@ This section frames the epistemic transition that the whole handbook rests on: t
 
 
 - **[The Paradigm Shift](/en/handbook/part-i/the-shift)** — The epistemic transition from traditional peer learning (Peeragogy) to the AI era, where AI is a full cognitive peer. — `explain`
+
+
+---
+
+↑ [Home](/en/home) · [Handbook](/en/handbook)
