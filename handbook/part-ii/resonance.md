@@ -2,7 +2,7 @@
 title: Resonance
 description: Resonance — a project coinage for the rare interval when a human-machine learning group produces something neither side, nor their plain sum, was on track to produce. Anchored on emergence and the collective-intelligence literature, with the superadditivi
 published: true
-date: 2026-06-10T16:59:04.637Z
+date: 2026-06-10T17:16:16.759Z
 tags: pyragogy, definition, resonance, emergence, collective-intelligence
 editor: markdown
 dateCreated: 2026-06-10T11:20:49.922Z
@@ -87,4 +87,4 @@ So Resonance, named here, does not promise multiplication. It marks the possibil
 
 ---
 
-↑ Back to **[Part II — Core Concepts](/en/handbook/part-ii)** · [Handbook index](/en/handbook)
+↑ Back to **[Part II — Core Concepts](/en/handbook/part-ii)** · [Handbook](/en/handbook) · [Home](/en/home)
