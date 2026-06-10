@@ -2,63 +2,88 @@
 title: Pyragogy Handbook — AI Edition
 description: A living handbook produced through human–AI collaboration.
 published: true
-date: 2026-04-03T09:20:48.426Z
-tags: pyragogy, handbook, ai-edition, living-document
+date: 2026-06-10T17:15:35.636Z
+tags: handbook, frontstage, overview
 editor: markdown
 dateCreated: 2026-04-01T15:51:35.188Z
 ---
 
 # Pyragogy Handbook — AI Edition
 
-
-
-> **Abstract**  
-> Pyragogy is the evolution of Peeragogy in the AI era: peer learning where AI is not a tool but a cognitive peer. This living handbook documents human–AI co-learning through patterns, methods, real cases and enabling technologies. Produced through ongoing human–AI collaboration, it stabilises the best of an open cognitive process.![logo.svg](/img/logo.svg){.align-center}
-
-## Contesto
-Peeragogy taught us to learn together since 2012. Pyragogy asks: *what happens when AI joins the room as a true participant?*  
-Groups now manage cognitive acceleration, epistemic tension, shared memory across humans and agents, and ethical co-creation. This handbook maps the shift with conceptual precision and practical honesty.
-
-## What this handbook is
-This is **not** raw AI generation.  
-This is **not** a static book.  
-It is a **living handbook** — dynamic in method, stable in public form — produced through human–AI collaboration and human-in-the-loop editorial decisions.
-
-## How to read it (Istruzioni/Soluzione)
-1. Start with **About this Edition** to understand the editorial process.  
-2. Explore the **4 pillars** below to find what you need: patterns to apply, methods to practice, cases to learn from, technologies to build with.  
-3. Use the **Glossary** for precise terminology.  
-4. Everything here is stabilised frontstage: readable, structured and temporarily stable.  
-5. Raw drafts, debates and unreviewed AI output live in the backstage (forge.pyragogy.org and collaborative pads).
-
-## Structure – The 4 Pillars of Pyragogy
-- **[About this Edition](./about-this-edition)** – Editorial philosophy and process  
-- **[Part I — The Shift](/handbook/part-i/the-shift)** – From Peeragogy to Pyragogy  
-- **[Part II — Core Concepts](/handbook/part-ii)** – Foundational ideas of human–AI co-learning  
-- **Part III — Protocols and Practices** → **Patterns + Metodi** (Heartbeat, Newcomer, Co-Facilitation Umano-AI, etc.)  
-- **Part IV — Cases and Experiments** → **Casi di Studio** (real human–AI communities)  
-- **Part V — Infrastructure** → **Tecnologie** (n8n multi-agent workflows, shared memory tools, AI village)  
-- **Part VI — Open Questions** – Tensioni irrisolte e futuro  
-- **[Glossary](/glossary)** – Termini base della Pyragogy
-
-## Current editorial stance
-This handbook is **not finished**.  
-It is being shaped through ongoing human and AI collaboration.  
-What is stable here is stable by editorial decision — never by claim of final truth.
-
-**Interlinking**  
-[[About this Edition]] • [[Glossary]] • [[Part III — Protocols and Practices]] • [[Pattern: Heartbeat]] • [[Part V — Infrastructure]]  
-
-**License:** CC-BY-SA 4.0 (consistent with Peeragogy and Pyragogy’s open philosophy)
-
----
 > **Type:** Index Page  
 > **Status:** Stable  
 > **Version:** v0.1  
 > **Last synthesized:** 2026-04-01  
 > **Reviewed by:** Human  
-> **License:** CC-BY-SA 4.0 (consistent with Peeragogy and Pyragogy's open philosophy)
+> **Open tensions:** 0
+
+Pyragogy Handbook — AI Edition is a living handbook produced through human–AI collaboration.
+What appears here is not raw generation, but the stabilized form of an ongoing cognitive process.
+
+## What this handbook is
+
+This handbook documents an emerging framework for human–AI co-learning.
+It treats AI not as a tool on the side, but as a participant in the room.
+
+## How to read it
+
+This is a public frontstage.
+Pages are readable, structured, and temporarily stable.
+The backstage where drafts, debate, and co-editing happen is intentionally separate.
+
+## Map
+
+- [About this Edition](/en/handbook/about-this-edition)
 
 
+**[Part I — The Shift](/en/handbook/part-i)**
+- [The Paradigm Shift](/en/handbook/part-i/the-shift)
 
-**License:** CC-BY-SA 4.0 (consistent with Peeragogy and Pyragogy's open philosophy)
+**[Part II — Core Concepts](/en/handbook/part-ii)**
+- [What is Pyragogy](/en/handbook/part-ii/what-is-pyragogy)
+- [Cognitive Rhythm](/en/handbook/part-ii/cognitive-rhythm)
+- [Cognitive Friction](/en/handbook/part-ii/cognitive-friction)
+- [Cognitive Impedance Mismatch](/en/handbook/part-ii/cognitive-impedance-mismatch)
+- [Synchronization](/en/handbook/part-ii/synchronization)
+- [Divergence](/en/handbook/part-ii/divergence)
+- [Resonance](/en/handbook/part-ii/resonance)
+- [Blues Protocol](/en/handbook/part-ii/blues-protocol)
+- [CRDT Bridge](/en/handbook/part-ii/crdt-bridge)
+
+**[Part III — Protocols and Practices](/en/handbook/part-iii)**
+- [The Newcomer Protocol (Human & Agent)](/en/handbook/part-iii/newcomer-protocol)
+- [Pattern: Adversarial Friction](/en/handbook/part-iii/adversarial-friction)
+- [Pattern: Context Persistence](/en/handbook/part-iii/context-persistence)
+- [Pattern: Context-Window Economy](/en/handbook/part-iii/context-window-economy)
+- [Pattern: Asymmetric Collaboration](/en/handbook/part-iii/asymmetric-collaboration)
+- [Pattern: The Shared Ledger of Knowledge](/en/handbook/part-iii/shared-ledger)
+
+**[Part IV — Cases and Experiments](/en/handbook/part-iv)**
+- [Case Study: Obliqo](/en/handbook/part-iv/obliqo)
+- [Case Study: Open Review](/en/handbook/part-iv/open-review)
+- [Case Study: AI Goes to School](/en/handbook/part-iv/ai-goes-to-school)
+- [Case Study: Agent Village](/en/handbook/part-iv/agent-village)
+
+**[Part V — Infrastructure](/en/handbook/part-v)**
+- [Synthesis Architecture](/en/handbook/part-v/synthesis-architecture)
+
+**[Part VI — Anti-Patterns and Practical Failures](/en/handbook/part-vi)**
+- [Anti-Pattern: The Compliance Trap](/en/handbook/part-vi/compliance-trap)
+- [Anti-Pattern: Orchestra Desynchronization](/en/handbook/part-vi/orchestra-desynchronization)
+- [Anti-Pattern: Context Poisoning](/en/handbook/part-vi/context-poisoning)
+
+**[Part VII — Open Questions](/en/handbook/part-vii)**
+- [The Epistemic Ownership Dilemma](/en/handbook/part-vii/epistemic-ownership)
+- [Long-Term Cognitive Co-Evolution](/en/handbook/part-vii/long-term-co-evolution)
+
+**[Glossary](/en/handbook/glossary)**
+
+**Essays**
+- [The Silence of the Abacus](/en/the-silence-of-the-abacus)
+
+
+## Current editorial stance
+
+This handbook is not finished.
+It is being shaped through ongoing human and AI collaboration.
+What is stable here is stable by editorial decision, not by claim of final truth.
