@@ -2,7 +2,7 @@
 title: Part V — Infrastructure
 description: 
 published: true
-date: 2026-06-10T11:21:50.154Z
+date: 2026-06-10T17:15:53.437Z
 tags: index, infrastructure
 editor: markdown
 dateCreated: 2026-04-01T11:42:33.763Z
@@ -33,3 +33,8 @@ It includes editorial, technical, and governance structures. — *function: `exp
 
 
 - **[Synthesis Architecture](/en/handbook/part-v/synthesis-architecture)** — The logical map and topological abstraction of the self-hosted infrastructure supporting the graph. (Single synthesis page; operational specifics live inside the patterns they enable.) — `explain`
+
+
+---
+
+↑ [Home](/en/home) · [Handbook](/en/handbook)
