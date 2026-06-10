@@ -2,7 +2,7 @@
 title: Part VII — Open Questions
 description: 
 published: true
-date: 2026-06-10T11:21:54.479Z
+date: 2026-06-10T17:15:58.470Z
 tags: index, open-questions
 editor: markdown
 dateCreated: 2026-06-10T11:21:54.479Z
@@ -33,3 +33,8 @@ It preserves uncertainty, unresolved tensions, and lines of inquiry that should 
 
 - **[The Epistemic Ownership Dilemma](/en/handbook/part-vii/epistemic-ownership)** — The nature and traceability of cognitive copyright when output results from inseparable symbiotic friction. — `preserve uncertainty`
 - **[Long-Term Cognitive Co-Evolution](/en/handbook/part-vii/long-term-co-evolution)** — Long-term effects on human cognition and on model drift under permanent structural coupling. — `preserve uncertainty`
+
+
+---
+
+↑ [Home](/en/home) · [Handbook](/en/handbook)
