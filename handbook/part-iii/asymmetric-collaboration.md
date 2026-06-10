@@ -2,7 +2,7 @@
 title: Pattern: Asymmetric Collaboration
 description: Asymmetric Collaboration: coordinating slow, intermittent human thinking with the instant, continuous activation of a model — running the two clocks in an asynchronous workflow instead of forcing them onto the same one.
 published: true
-date: 2026-06-10T11:21:07.053Z
+date: 2026-06-10T16:59:20.567Z
 tags: pyragogy, agents, pattern, asynchronous, temporality, coordination
 editor: markdown
 dateCreated: 2026-06-10T11:13:46.404Z
@@ -82,3 +82,8 @@ The pattern, then, is not a productivity trick. It is the refusal to make a cont
 - Michal Rinott and Orit Shaer, "Temporal Aspects of Human-AI Collaborations for Work," *Proceedings of the 3rd Annual Meeting of the Symposium on Human-Computer Interaction for Work* (CHIWORK '24), Newcastle upon Tyne, June 25–27, 2024. Names four areas where human and LLM temporality diverge — interaction pace, temporal context, continuity over time, rhythm and attunement — and proposes the "night owl" asynchronous-handoff persona and the distant-time-zone analogy. DOI: https://doi.org/10.1145/3663384.3663397 — open-access PDF (Wellesley College repository): https://repository.wellesley.edu/_flysystem/fedora/2025-06/WCFS_2024_OritShaer_TemporalAspects.pdf
 - Ece Kamar, "Directions in Hybrid Intelligence: Complementing AI Systems with Human Intelligence," *Proceedings of IJCAI 2016*, 4070–4073 — argues that combining machine and human intelligence can overcome the shortcomings of existing AI systems. https://www.ijcai.org/Abstract/16/603
 - Soroush Saghafian and Lihi Idan, "Effective Generative AI: The Human-Algorithm Centaur," *Harvard Data Science Review* (2024). Argues for the critical essentiality of centaur models (human–algorithm pairing); the "centaur" framing reused from *What is Pyragogy*. https://arxiv.org/abs/2406.10942
+
+
+---
+
+↑ Back to **[Part III — Protocols and Practices](/en/handbook/part-iii)** · [Handbook index](/en/handbook)
