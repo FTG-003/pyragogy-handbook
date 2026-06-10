@@ -2,7 +2,7 @@
 title: Cognitive Friction
 description: Cognitive friction in Pyragogy: intentional informational resistance that interrupts confirmation bias and forces critical thought — distinct from Alan Cooper's interaction-design sense of the term.
 published: true
-date: 2026-06-10T11:20:38.338Z
+date: 2026-06-10T16:58:55.761Z
 tags: pyragogy, definition, cognitive-friction, desirable-difficulties, confirmation-bias
 editor: markdown
 dateCreated: 2026-06-10T11:13:13.668Z
@@ -46,3 +46,8 @@ Cognitive friction, then, is not a feature you switch on. It is a wager that the
 - Elizabeth L. Bjork and Robert A. Bjork, "Making Things Hard on Yourself, But in a Good Way: Creating Desirable Difficulties to Enhance Learning," in *Psychology and the Real World: Essays Illustrating Fundamental Contributions to Society* (Worth, 2011), 56–64. PDF via the UCLA Bjork Learning and Forgetting Lab: https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf — defines "desirable difficulties" (orig. Bjork, 1994) as conditions that "while apparently creating difficulty, actually lead to more durable and flexible learning."
 - Raymond S. Nickerson, "Confirmation Bias: A Ubiquitous Phenomenon in Many Guises," *Review of General Psychology* 2, no. 2 (1998): 175–220. https://doi.org/10.1037/1089-2680.2.2.175 — open-access PDF: https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf — defines the bias as "the seeking or interpreting of evidence in ways that are partial to existing beliefs, expectations, or a hypothesis in hand." (The DOI/SagePub record returns HTTP 403 to automated requests; the UCSD-hosted PDF resolves at 200 and was verified verbatim.)
 - Alan Cooper, *The Inmates Are Running the Asylum: Why High-Tech Products Drive Us Crazy and How to Restore the Sanity* (Sams/Macmillan, 1999; orig. 1998), ch. 2, "Cognitive Friction." Chapter via O'Reilly: https://www.oreilly.com/library/view/inmates-are-running/0672326140/ch02.html — Wikipedia overview: https://en.wikipedia.org/wiki/The_inmates_are_running_the_asylum — Cooper coins "cognitive friction" for the resistance a human intellect meets from a complex system of rules that change as the problem permutes, and frames it as a design defect to be minimized. (Cited here to mark the distinction from this handbook's deliberately opposite sense. The full definitional passage sits behind the O'Reilly preview paywall; the chapter title and authorship are confirmed at the URL, and the verbatim wording is widely attested in the secondary literature.)
+
+
+---
+
+↑ Back to **[Part II — Core Concepts](/en/handbook/part-ii)** · [Handbook index](/en/handbook)
