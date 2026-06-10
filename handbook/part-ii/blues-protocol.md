@@ -2,7 +2,7 @@
 title: Blues Protocol
 description: Blues Protocol — a project coinage for the ritual handling of cognitive deadlock, systemic error, and frustration in a human–agent network: not a fix for failure but a structured way of staying in it long enough to make it legible.
 published: true
-date: 2026-06-10T11:20:53.366Z
+date: 2026-06-10T16:59:07.022Z
 tags: pyragogy, definition, blues-protocol, failure, repair, ritual, coinage
 editor: markdown
 dateCreated: 2026-06-10T11:13:25.322Z
@@ -75,3 +75,8 @@ A deadlock, then, is not a thing to be cleared on sight. It is the moment the ne
 - Manu Kapur, "Productive Failure," *Cognition and Instruction* 26, no. 3 (2008): 379–424 — the originating empirical paper for the construct. DOI: https://doi.org/10.1080/07370000802212669 (Citation is from the published record; the publisher page was not accessible to the drafting process and the link has not been content-confirmed.)
 - Emanuel A. Schegloff, Gail Jefferson, and Harvey Sacks, "The Preference for Self-Correction in the Organization of Repair in Conversation," *Language* 53, no. 2 (June 1977): 361–382 — repair organization, and the preference for self-repair over other-repair as a self-righting mechanism in conversation. DOI: https://doi.org/10.2307/413107
 - "Conversation analysis," *Wikipedia* — on repair organization: how "parties in conversation deal with problems in speaking, hearing, or understanding," and the preference for self-repair. https://en.wikipedia.org/wiki/Conversation_analysis
+
+
+---
+
+↑ Back to **[Part II — Core Concepts](/en/handbook/part-ii)** · [Handbook index](/en/handbook)
