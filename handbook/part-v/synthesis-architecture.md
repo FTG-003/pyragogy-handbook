@@ -2,7 +2,7 @@
 title: Synthesis Architecture
 description: Synthesis Architecture — the logical topology of the self-hosted infrastructure that supports a human–machine learning graph, drawn as an abstraction of guarantees rather than a setup tutorial: what the architecture must hold, kept separate from the swapp
 published: true
-date: 2026-06-10T16:59:34.624Z
+date: 2026-06-10T17:16:47.919Z
 tags: pyragogy, infrastructure, architecture, topology, self-hosting, synthesis
 editor: markdown
 dateCreated: 2026-06-10T11:21:21.972Z
@@ -85,4 +85,4 @@ The Synthesis Architecture, then, is not a system you can boot. It is the set of
 
 ---
 
-↑ Back to **[Part V — Infrastructure](/en/handbook/part-v)** · [Handbook index](/en/handbook)
+↑ Back to **[Part V — Infrastructure](/en/handbook/part-v)** · [Handbook](/en/handbook) · [Home](/en/home)
