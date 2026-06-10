@@ -2,7 +2,7 @@
 title: Case Study: Open Review
 description: A peer text-review flow augmented by a synthetic Critical Reading Team: four independent models read the same draft without reading each other, and the disagreement that survives is the review.
 published: true
-date: 2026-06-10T16:59:27.734Z
+date: 2026-06-10T17:16:40.860Z
 tags: case-study, open-review, critical-reading-team, crt, peer-review
 editor: markdown
 dateCreated: 2026-06-10T11:14:27.373Z
@@ -99,4 +99,4 @@ The method is written down. The tool is not. What the four readers find when the
 
 ---
 
-↑ Back to **[Part IV — Cases and Experiments](/en/handbook/part-iv)** · [Handbook index](/en/handbook)
+↑ Back to **[Part IV — Cases and Experiments](/en/handbook/part-iv)** · [Handbook](/en/handbook) · [Home](/en/home)
