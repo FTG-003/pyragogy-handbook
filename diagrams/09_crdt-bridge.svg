@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <style>
+    text { font-family: 'IBM Plex Mono', monospace; }
+    text, .stroke-main { fill: #1a1a1a; stroke: #1a1a1a; }
+    text { stroke-width: 0; }
+  </style>
+  <defs>
+    <marker id="aAmber" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#f59e0b"></path></marker>
+    <marker id="aIndigo" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#6366f1"></path></marker>
+    <marker id="aMain" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" class="stroke-main" stroke-width="0"></path></marker>
+  </defs>
+
+  
+  <rect x="0" y="0" width="800" height="400" rx="2" fill="#faf9f6"></rect>
+
+  <line x1="400" y1="28" x2="400" y2="372" class="stroke-main" stroke-width="1" style="fill:none"></line>
+
+  
+  <text x="200" y="34" text-anchor="middle" font-size="15" font-weight="700">CONSENSUS</text>
+  <text x="200" y="54" text-anchor="middle" font-size="11">every change routed</text>
+
+  <rect x="60" y="96" width="100" height="40" rx="2" stroke="#f59e0b" stroke-width="2" fill="none"></rect>
+  <text x="110" y="121" text-anchor="middle" font-size="13">Human</text>
+
+  <rect x="240" y="96" width="100" height="40" rx="2" stroke="#6366f1" stroke-width="2" fill="none"></rect>
+  <text x="290" y="121" text-anchor="middle" font-size="13">Agent</text>
+
+  
+  <line x1="120" y1="136" x2="180" y2="214" class="stroke-main" stroke-width="1" style="fill:none" marker-end="url(#aMain)"></line>
+  <line x1="280" y1="136" x2="220" y2="214" class="stroke-main" stroke-width="1" style="fill:none" marker-end="url(#aMain)"></line>
+
+  
+  <rect x="150" y="218" width="100" height="40" rx="2" class="stroke-main" stroke-width="2" style="fill:none"></rect>
+  <text x="200" y="243" text-anchor="middle" font-size="13">authority</text>
+
+  
+  <line x1="200" y1="258" x2="200" y2="312" class="stroke-main" stroke-width="1" style="fill:none" marker-end="url(#aMain)"></line>
+  <text x="200" y="334" text-anchor="middle" font-size="12">settled state</text>
+  <text x="200" y="360" text-anchor="middle" font-size="11">passes through middle</text>
+
+  
+  <text x="600" y="34" text-anchor="middle" font-size="15" font-weight="700">CRDT BRIDGE</text>
+  <text x="600" y="54" text-anchor="middle" font-size="11">no authority</text>
+
+  <rect x="470" y="180" width="100" height="40" rx="2" stroke="#f59e0b" stroke-width="2" fill="none"></rect>
+  <text x="520" y="205" text-anchor="middle" font-size="13">Human</text>
+
+  <rect x="630" y="180" width="100" height="40" rx="2" stroke="#6366f1" stroke-width="2" stroke-dasharray="4,4" fill="none"></rect>
+  <text x="680" y="205" text-anchor="middle" font-size="13">Agent</text>
+
+  
+  <text x="600" y="150" text-anchor="middle" font-size="13">converges</text>
+  <line x1="570" y1="200" x2="588" y2="200" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#aAmber)"></line>
+  <line x1="630" y1="200" x2="612" y2="200" stroke="#6366f1" stroke-width="2" stroke-dasharray="4,4" fill="none" marker-end="url(#aIndigo)"></line>
+
+  
+  <text x="520" y="262" text-anchor="middle" font-size="11">stake held</text>
+  <text x="680" y="262" text-anchor="middle" font-size="11">resets</text>
+
+  <text x="600" y="334" text-anchor="middle" font-size="12">same shared state</text>
+  <text x="600" y="360" text-anchor="middle" font-size="11">no node validates</text>
+</svg>
