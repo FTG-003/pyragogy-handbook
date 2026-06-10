@@ -2,7 +2,7 @@
 title: Pattern: The Shared Ledger of Knowledge
 description: The Shared Ledger of Knowledge: a decentralized local register where peers deposit the insights that survived the friction — a project coinage that borrows the ledger metaphor while refusing the blockchain it usually rides in on.
 published: true
-date: 2026-06-10T16:59:22.864Z
+date: 2026-06-10T17:16:35.828Z
 tags: pyragogy, coinage, pattern, knowledge-base, commonplace-book, decentralized, ledger
 editor: markdown
 dateCreated: 2026-06-10T11:14:10.837Z
@@ -77,4 +77,4 @@ The ledger, then, is not a place to put things. It is the discipline of deciding
 
 ---
 
-↑ Back to **[Part III — Protocols and Practices](/en/handbook/part-iii)** · [Handbook index](/en/handbook)
+↑ Back to **[Part III — Protocols and Practices](/en/handbook/part-iii)** · [Handbook](/en/handbook) · [Home](/en/home)
