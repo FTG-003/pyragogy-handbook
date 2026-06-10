@@ -2,7 +2,7 @@
 title: Part VI — Anti-Patterns and Practical Failures
 description: 
 published: true
-date: 2026-06-10T11:21:52.487Z
+date: 2026-06-10T17:15:55.944Z
 tags: index, anti-patterns, failures
 editor: markdown
 dateCreated: 2026-04-01T11:46:50.774Z
@@ -27,3 +27,8 @@ This section documents how human–AI co-production fails. It names the recurrin
 - **[Anti-Pattern: The Compliance Trap](/en/handbook/part-vi/compliance-trap)** — The systemic failure where AI uncritically validates the user due to alignment/commercial bias. — `preserve uncertainty`
 - **[Anti-Pattern: Orchestra Desynchronization](/en/handbook/part-vi/orchestra-desynchronization)** — Emergency procedures for infinite loops, cross-hallucination, or semantic deadlocks in multi-agent pipelines. — `document`
 - **[Anti-Pattern: Context Poisoning](/en/handbook/part-vi/context-poisoning)** — The breaking point where unfiltered raw data or redundant backstage logs corrupt agents' working memory. — `document`
+
+
+---
+
+↑ [Home](/en/home) · [Handbook](/en/handbook)
