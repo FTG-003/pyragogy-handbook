@@ -2,7 +2,7 @@
 title: Pattern: Context Persistence
 description: Context Persistence: the practice of anchoring a transient human–AI brainstorm to a durable store so the thinking survives the session that produced it — and why the human and agent halves of the problem are not the same.
 published: true
-date: 2026-06-10T11:21:02.309Z
+date: 2026-06-10T16:59:16.021Z
 tags: pyragogy, agents, pattern, memory, extended-mind, knowledge-base
 editor: markdown
 dateCreated: 2026-06-10T11:13:40.345Z
@@ -76,3 +76,8 @@ The pattern, then, is not a solved storage problem. It is the recognition that a
 - Andy Clark and David J. Chalmers, "The Extended Mind," *Analysis* 58, no. 1 (1998): 7–19. The parity principle and the Otto/Inga notebook thought experiment — the foundational case that a reliably consulted external store can do the cognitive work of memory. Overview and primary claims: https://en.wikipedia.org/wiki/Extended_mind_thesis
 - Personal Knowledge Management — the discipline of capturing, classifying, storing, retrieving, and sharing one's own knowledge; the "second brain" / external-memory practice. Institutional guide (Massachusetts General Hospital Libraries): https://libguides.massgeneral.org/c.php?g=1439663&p=10691666
 - Kelly Hong, Anton Troynikov, and Jeff Huber, "Context Rot: How Increasing Input Tokens Impacts LLM Performance," Chroma Technical Report (July 2025). Eighteen frontier models show non-uniform degradation as input length grows, even on simple retrieval tasks — the basis for why a persistent store must be curated rather than appended. https://www.trychroma.com/research/context-rot
+
+
+---
+
+↑ Back to **[Part III — Protocols and Practices](/en/handbook/part-iii)** · [Handbook index](/en/handbook)
