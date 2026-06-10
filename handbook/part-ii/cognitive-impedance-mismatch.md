@@ -2,7 +2,7 @@
 title: Cognitive Impedance Mismatch
 description: Cognitive Impedance Mismatch — a project coinage, borrowed from electrical engineering, for the structural gap in processing volume and speed between a biological mind and a computational instance, and why that gap cannot be closed by tuning either side a
 published: true
-date: 2026-06-10T11:20:40.663Z
+date: 2026-06-10T16:58:57.832Z
 tags: pyragogy, definition, cognition, coinage, impedance
 editor: markdown
 dateCreated: 2026-06-10T11:20:40.663Z
@@ -73,3 +73,8 @@ A mismatch, then, is not a flaw to remove. It is the standing condition of a min
 - "Impedance matching," *Wikipedia* — on the electrical-engineering source of the term: designing source/load impedance "to maximize power transfer or minimize signal reflection," and reflection at a mismatched interface. https://en.wikipedia.org/wiki/Impedance_matching
 - "Object–relational impedance mismatch," *Wikipedia* — the prior metaphorical borrowing of the term into software engineering ("the term *impedance mismatch* comes from impedance matching in electrical engineering"). https://en.wikipedia.org/wiki/Object%E2%80%93relational_impedance_mismatch
 - Anthropic, "Introducing Claude 2.1" (November 2023) — on the 200,000-token context window, "roughly 150,000 words, or over 500 pages of material." https://www.anthropic.com/news/claude-2-1
+
+
+---
+
+↑ Back to **[Part II — Core Concepts](/en/handbook/part-ii)** · [Handbook index](/en/handbook)
