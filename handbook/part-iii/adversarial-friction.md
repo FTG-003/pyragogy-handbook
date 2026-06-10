@@ -2,7 +2,7 @@
 title: Pattern: Adversarial Friction
 description: A pattern for deliberately assigning an agent the job of attacking a human's thesis — injecting cognitive friction on purpose to stress-test an idea before the world does.
 published: true
-date: 2026-06-10T11:13:36.907Z
+date: 2026-06-10T11:21:00.073Z
 tags: pyragogy, pattern, adversarial-friction, red-teaming, groupthink
 editor: markdown
 dateCreated: 2026-06-10T11:13:36.907Z
