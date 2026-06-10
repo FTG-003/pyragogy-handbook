@@ -2,7 +2,7 @@
 title: What is Pyragogy
 description: 
 published: true
-date: 2026-06-10T16:58:50.760Z
+date: 2026-06-10T17:16:03.118Z
 tags: pyragogy, definition
 editor: markdown
 dateCreated: 2026-06-09T17:20:41.480Z
@@ -72,4 +72,4 @@ Pyragogy, then, is not a case for automation. It is a wager — that an artifici
 
 ---
 
-↑ Back to **[Part II — Core Concepts](/en/handbook/part-ii)** · [Handbook index](/en/handbook)
+↑ Back to **[Part II — Core Concepts](/en/handbook/part-ii)** · [Handbook](/en/handbook) · [Home](/en/home)
