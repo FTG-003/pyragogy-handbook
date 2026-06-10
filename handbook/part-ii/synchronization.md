@@ -2,7 +2,7 @@
 title: Synchronization
 description: Synchronization — a project-specific use of the term for the intermittent points at which a human-machine learning group's knowledge state briefly aligns, anchored on Herbert Clark's grounding and the team-cognition literature.
 published: true
-date: 2026-06-10T11:20:44.105Z
+date: 2026-06-10T16:59:00.190Z
 tags: pyragogy, definition, cognition, synchronization, common-ground
 editor: markdown
 dateCreated: 2026-06-10T11:13:18.547Z
@@ -68,3 +68,8 @@ So Synchronization, named here, does little more for now than mark the brief int
 - Herbert H. Clark and Susan E. Brennan, "Grounding in Communication," in Lauren B. Resnick, John M. Levine, and Stephanie D. Teasley (eds.), *Perspectives on Socially Shared Cognition* (Washington, DC: American Psychological Association, 1991), 127–149. Defines common ground ("mutual knowledge, mutual beliefs, and mutual assumptions"), the grounding criterion, and the principle of least collaborative effort. Author's copy (scanned PDF): https://web.stanford.edu/~clark/1990s/Clark,%20H.H.%20_%20Brennan,%20S.E.%20_Grounding%20in%20communication_%201991.pdf
 - Leslie A. DeChurch and Jessica R. Mesmer-Magnus, "The Cognitive Underpinnings of Effective Teamwork: A Meta-Analysis," *Journal of Applied Psychology* 95, no. 1 (2010): 32–53. https://doi.org/10.1037/a0017328 — meta-analysis (231 correlations, 65 studies) establishing team cognition's relationship to team process and performance. Record: https://pubmed.ncbi.nlm.nih.gov/20085405/
 - Sharolyn A. Converse, Janis A. Cannon-Bowers, and Eduardo Salas, "Team Member Shared Mental Models: A Theory and Some Methodological Issues," *Proceedings of the Human Factors Society Annual Meeting* 35, no. 19 (1991): 1417–1421. https://doi.org/10.1177/154193129103501917 — origin of the shared-mental-models distinction (task vs. team models).
+
+
+---
+
+↑ Back to **[Part II — Core Concepts](/en/handbook/part-ii)** · [Handbook index](/en/handbook)
