@@ -2,7 +2,7 @@
 title: The Newcomer Protocol (Human & Agent)
 description: The cognitive contract for admitting a new participant — human or agent — into a Pyragogy network: what it must receive, what it must accept, and why the two onboardings diverge.
 published: true
-date: 2026-06-10T11:20:57.919Z
+date: 2026-06-10T16:59:11.466Z
 tags: pyragogy, protocol, onboarding, communities-of-practice, agents
 editor: markdown
 dateCreated: 2026-06-10T11:13:32.532Z
@@ -88,3 +88,8 @@ The protocol, then, is not a finished door with a finished key. It is the recogn
 - Jean Lave and Etienne Wenger, *Situated Learning: Legitimate Peripheral Participation* (Cambridge University Press, 1991). The foundational account of communities of practice and of newcomers moving from a legitimate periphery toward fuller participation. https://www.cambridge.org/highereducation/books/situated-learning/6915ABD21C8E4619F750A4D4ACA616CD
 - Etienne Wenger-Trayner and Beverly Wenger-Trayner, "Introduction to communities of practice" (2015) — source of the definition quoted: "groups of people who share a concern or a passion for something they do and learn how to do it better as they interact regularly." https://www.wenger-trayner.com/introduction-to-communities-of-practice/
 - Anthropic, "Effective context engineering for AI agents" (Anthropic Engineering) — context as "the smallest possible set of high-signal tokens that maximize the likelihood of some desired outcome"; system prompt, tools, examples, and memory as the curated surface. https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
+
+
+---
+
+↑ Back to **[Part III — Protocols and Practices](/en/handbook/part-iii)** · [Handbook index](/en/handbook)
