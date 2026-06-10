@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <style>
+    text { font-family: 'IBM Plex Mono', monospace; }
+    text, .stroke-main { fill: #1a1a1a; stroke: #1a1a1a; }
+    text { stroke-width: 0; }
+  </style>
+  <defs>
+    <marker id="aAmber" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#f59e0b"></path></marker>
+    <marker id="aIndigo" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#6366f1"></path></marker>
+  </defs>
+
+  
+  <rect x="0" y="0" width="800" height="400" rx="2" fill="#faf9f6"></rect>
+
+  
+  <rect x="30" y="55" width="560" height="315" rx="2" class="stroke-main" stroke-width="1" style="fill:none" opacity="0.5"></rect>
+  <text x="40" y="48" font-size="11">self-hosted</text>
+
+  
+  <rect x="250" y="62" width="120" height="34" rx="2" class="stroke-main" stroke-width="2" style="fill:none" stroke-dasharray="4,4"></rect>
+  <text x="310" y="83" text-anchor="middle" font-size="11">no authority</text>
+
+  
+  <rect x="250" y="165" width="130" height="70" rx="2" class="stroke-main" stroke-width="2" style="fill:none"></rect>
+  <line x1="315" y1="165" x2="315" y2="235" class="stroke-main" stroke-width="1" style="fill:none"></line>
+  <text x="283" y="205" text-anchor="middle" font-size="10">human-</text>
+  <text x="283" y="218" text-anchor="middle" font-size="10">readable</text>
+  <text x="347" y="205" text-anchor="middle" font-size="10">machine-</text>
+  <text x="347" y="218" text-anchor="middle" font-size="10">loadable</text>
+  <text x="315" y="152" text-anchor="middle" font-size="11">durable record</text>
+
+  
+  <rect x="70" y="130" width="90" height="36" rx="2" stroke="#f59e0b" stroke-width="2" fill="none"></rect>
+  <text x="115" y="153" text-anchor="middle" font-size="12">Human</text>
+  <rect x="70" y="250" width="90" height="36" rx="2" stroke="#f59e0b" stroke-width="2" fill="none"></rect>
+  <text x="115" y="273" text-anchor="middle" font-size="12">Human</text>
+  <line x1="160" y1="155" x2="248" y2="190" stroke="#f59e0b" stroke-width="2" marker-end="url(#aAmber)"></line>
+  <line x1="160" y1="262" x2="248" y2="215" stroke="#f59e0b" stroke-width="2" marker-end="url(#aAmber)"></line>
+
+  
+  <rect x="440" y="130" width="90" height="36" rx="2" stroke="#6366f1" stroke-width="2" fill="none"></rect>
+  <text x="485" y="153" text-anchor="middle" font-size="12">Agent</text>
+  <rect x="440" y="250" width="90" height="36" rx="2" stroke="#6366f1" stroke-width="2" fill="none"></rect>
+  <text x="485" y="273" text-anchor="middle" font-size="12">Agent</text>
+  <line x1="440" y1="155" x2="382" y2="190" stroke="#6366f1" stroke-width="2" marker-end="url(#aIndigo)"></line>
+  <line x1="440" y1="262" x2="382" y2="215" stroke="#6366f1" stroke-width="2" marker-end="url(#aIndigo)"></line>
+
+  
+  <line x1="600" y1="55" x2="600" y2="370" class="stroke-main" stroke-width="2" style="fill:none" stroke-dasharray="4,4"></line>
+  <text x="700" y="80" text-anchor="middle" font-size="11">models</text>
+  <text x="700" y="94" text-anchor="middle" font-size="11">(swappable)</text>
+  <rect x="660" y="120" width="80" height="30" rx="2" stroke="#6366f1" stroke-width="2" fill="none"></rect>
+  <rect x="660" y="185" width="80" height="30" rx="2" stroke="#6366f1" stroke-width="2" fill="none"></rect>
+  <rect x="660" y="250" width="80" height="30" rx="2" stroke="#6366f1" stroke-width="2" fill="none"></rect>
+  
+  <line x1="530" y1="200" x2="658" y2="200" stroke="#6366f1" stroke-width="2" marker-end="url(#aIndigo)"></line>
+
+  <text x="310" y="390" text-anchor="middle" font-size="11">no node validates — no single model is load-bearing</text>
+</svg>
