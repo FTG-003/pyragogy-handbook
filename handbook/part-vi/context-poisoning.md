@@ -2,7 +2,7 @@
 title: Anti-Pattern: Context Poisoning
 description: Context Poisoning: the failure where unfiltered raw data or redundant backstage logs corrupt an agent's working memory — distinct from the scarcity problem of the context window, because here the window is not too small but contaminated, and the contamina
 published: true
-date: 2026-06-10T17:16:54.497Z
+date: 2026-06-11T08:00:08.101Z
 tags: memory, anti-pattern, failure-modes, context, prompt-injection, security
 editor: markdown
 dateCreated: 2026-06-10T11:21:30.223Z
@@ -90,6 +90,10 @@ A poisoned context does not announce itself. It reads exactly like a good one, w
 - Kelly Hong, Anton Troynikov, and Jeff Huber, "Context Rot: How Increasing Input Tokens Impacts LLM Performance," Chroma Technical Report (July 2025). "Even a single distractor reduces performance relative to the baseline," the effect "amplifies as input length grows," and "adding irrelevant context … forc[es] the model to perform two tasks simultaneously." Source for the accidental-door / distractor mechanism of self-poisoning. https://www.trychroma.com/research/context-rot
 - Nelson F. Liu, Kevin Lin, John Hewitt, Ashwin Paranjape, Michele Bevilacqua, Fabio Petroni, and Percy Liang, "Lost in the Middle: How Language Models Use Long Contexts," *Transactions of the Association for Computational Linguistics* 12 (2024): 157–173. Performance degrades when relevant information must be accessed from the middle of a long context — cited here to mark the distinction between degradation-of-correct-context (the economy problem) and corruption-of-context (this page). https://aclanthology.org/2024.tacl-1.9/
 
+
+## Toward 2050 — a conjecture
+
+If networks keep accreting shared, long-lived memory the way they have, the most dangerous poison twenty-five years out might not be the planted distractor or the injected instruction but the *sedimented* one: a corrupted premise that has been re-served, reformulated, and cross-ratified so many times that no surviving trace records it was ever in doubt. We cannot yet know whether provenance — some durable mark of where a "fact" entered and what it once contradicted — can be carried across that many hand-offs without itself becoming the next thing to clutter and rot the context. If it cannot, then the [doubting part of the network that was never made of weights](/en/pyragogy-2050) may, by 2050, be less a safeguard against poisoning than the only place an un-laundered memory of the original error still lives — though whether a human reader could still find it under the sediment is precisely what this page cannot promise.
 
 ---
 
