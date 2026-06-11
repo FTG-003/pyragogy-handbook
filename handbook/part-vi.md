@@ -2,7 +2,7 @@
 title: Part VI — Anti-Patterns and Practical Failures
 description: 
 published: true
-date: 2026-06-10T17:15:55.944Z
+date: 2026-06-11T07:59:00.262Z
 tags: index, anti-patterns, failures
 editor: markdown
 dateCreated: 2026-04-01T11:46:50.774Z
