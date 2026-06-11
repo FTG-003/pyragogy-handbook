@@ -2,7 +2,7 @@
 title: Case Study: Obliqo
 description: How a friction-engine browser extension was built, deployed, and put in front of writers — a working test of whether designed disagreement helps a person think, and an honest account of what is not yet measured.
 published: true
-date: 2026-06-10T17:16:38.471Z
+date: 2026-06-11T07:59:46.424Z
 tags: case-study, obliqo, friction, browser-extension, field-validation
 editor: markdown
 dateCreated: 2026-04-09T06:29:55.054Z
@@ -38,7 +38,7 @@ The core mechanism is four AI agents reading the same document in parallel, each
 The roles, as they run:
 
 - **Global Researcher** sets the draft against what is already known — what is missing, what is already common, what is actually new.
-- **Resonance** reads the document against itself — internal coherence, latent tensions, the assumption stated nowhere but load-bearing everywhere.
+- **Timbre** reads the document against itself — internal coherence, latent tensions, the assumption stated nowhere but load-bearing everywhere. It listens for where the voice rings false: where the text sounds forced, or quietly puts on armour to cover a weak join. *(In the handbook this reader is named Timbre to keep the word [Resonance](/en/handbook/part-ii/resonance) for the concept alone — the emergent surplus of the coupling, not a single agent checking one text.)*
 - **Distortion** is the antagonist, and it scales. At low intensity it asks gentle open questions; at the top of its range it goes after first principles. This is the agent that most directly performs [Adversarial Friction](/en/handbook/part-iii/adversarial-friction).
 - **Synthesis** — internally the *Weaver* — reads the first three and writes the integration. Its standing instruction is the hard one: do not average the voices, name where they collide, and end on the one question only a human can close.
 
@@ -85,6 +85,10 @@ What the case establishes is narrower than a result and more than nothing. It es
 </content>
 </invoke>
 
+
+## Toward 2050 — a conjecture
+
+If an artifact like Obliqo is still running twenty-five years from now, the interesting question is not whether the engine got better at disagreeing — that part seems easy to extrapolate — but whether the writer on the other side stayed able to *be* disagreed with. We cannot yet know whether a generation that grows up with friction available on tap learns to seek it out, or learns the faster reflex of dismissing the orange agent before it finishes speaking, the way one mutes a familiar alarm. It is even possible that "private by default" stops being a courage instrument and becomes the opposite — a place to rehearse defenses in secret — if the surrounding culture has by then made every draft public the moment it exists; whether that pressure builds or fades is the kind of thing the [forward essay](/en/pyragogy-2050) can only guess at. The wager this case leaves open might simply have hardened by 2050, or it might have dissolved into a question no shipped workflow ever managed to ask.
 
 ---
 
