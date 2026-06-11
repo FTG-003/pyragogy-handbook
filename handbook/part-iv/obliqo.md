@@ -2,7 +2,7 @@
 title: Case Study: Obliqo
 description: How a friction-engine browser extension was built, deployed, and put in front of writers — a working test of whether designed disagreement helps a person think, and an honest account of what is not yet measured.
 published: true
-date: 2026-06-11T07:59:46.424Z
+date: 2026-06-11T08:05:36.407Z
 tags: case-study, obliqo, friction, browser-extension, field-validation
 editor: markdown
 dateCreated: 2026-04-09T06:29:55.054Z
@@ -82,13 +82,7 @@ What the case establishes is narrower than a result and more than nothing. It es
 - Chrome for Developers, "chrome.sidePanel" API reference — hosting extension content in the browser side panel alongside page content (Manifest V3). https://developer.chrome.com/docs/extensions/reference/api/sidePanel
 - Chrome for Developers, "Chrome Web Store review process" — review timing and the heightened scrutiny applied to new developers and new extensions. https://developer.chrome.com/docs/webstore/review-process
 - Howard Rheingold and the Peeragogy Project, *The Peeragogy Handbook* — the peer-learning lineage this project forks. https://peeragogy.org/
-</content>
-</invoke>
 
-
-## Toward 2050 — a conjecture
-
-If an artifact like Obliqo is still running twenty-five years from now, the interesting question is not whether the engine got better at disagreeing — that part seems easy to extrapolate — but whether the writer on the other side stayed able to *be* disagreed with. We cannot yet know whether a generation that grows up with friction available on tap learns to seek it out, or learns the faster reflex of dismissing the orange agent before it finishes speaking, the way one mutes a familiar alarm. It is even possible that "private by default" stops being a courage instrument and becomes the opposite — a place to rehearse defenses in secret — if the surrounding culture has by then made every draft public the moment it exists; whether that pressure builds or fades is the kind of thing the [forward essay](/en/pyragogy-2050) can only guess at. The wager this case leaves open might simply have hardened by 2050, or it might have dissolved into a question no shipped workflow ever managed to ask.
 
 ---
 
