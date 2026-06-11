@@ -1,8 +1,8 @@
 ---
 title: Resonance
-description: Resonance — a project coinage for the rare interval when a human-machine learning group produces something neither side, nor their plain sum, was on track to produce. Anchored on emergence and the collective-intelligence literature, with the superadditivi
+description: Resonance — the R(t) (resonance) variable of the Cognitive Rhythm Theory: the rare interval when a human-machine learning group produces something neither side, nor their plain sum, was on track to produce. Anchored on emergence and the collective-intelli
 published: true
-date: 2026-06-10T17:16:16.759Z
+date: 2026-06-11T07:59:26.609Z
 tags: pyragogy, definition, resonance, emergence, collective-intelligence
 editor: markdown
 dateCreated: 2026-06-10T11:20:49.922Z
@@ -21,7 +21,7 @@ dateCreated: 2026-06-10T11:20:49.922Z
 
 That interval — when the output of the group exceeds what either participant, or their plain sum, was on track to produce — is what this page names.
 
-We call it **Resonance**, and the word is a coinage of this project: you will not find it as a construct in the learning sciences, and we are borrowing a physics image for a thing physics does not study. We use it in a strict, project-specific sense, narrow enough to keep it honest. It does not mean rapport, or a good session, or the warm feeling that a conversation went well. It names the specific case where a human-machine group's output is *more than additive* — where the contributions did not stack but combined, and the combination produced something that was not present, even latently, in either contributor alone. The borrowed image is precise about one thing and one thing only: two systems coupling such that the joint motion is larger than either driving motion. We keep that and drop the rest.
+We call it **Resonance** — and it is not a standalone coinage but the second coupling variable of the [Cognitive Rhythm Theory](/en/handbook/part-ii/cognitive-rhythm), the term **`R(t)`**, which the theory defines as *"the quality of cognitive interaction — how the cognitive processes of one agent amplify, complement, or transform those of the other … not simply a matter of agreement or similarity, but of productive complementarity and mutual amplification."* This page develops that variable in a strict, narrow sense, enough to keep it honest. It does not mean rapport, or a good session, or the warm feeling that a conversation went well. It names the specific case where a human-machine group's output is *more than additive* — where the contributions did not stack but combined, and the combination produced something that was not present, even latently, in either contributor alone. The borrowed image is precise about one thing and one thing only: two systems coupling such that the joint motion is larger than either driving motion. We keep that and drop the rest.
 
 ## What Resonance is not
 
