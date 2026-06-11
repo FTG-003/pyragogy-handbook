@@ -2,7 +2,7 @@
 title: Cognitive Impedance Mismatch
 description: Cognitive Impedance Mismatch — a project coinage, borrowed from electrical engineering, for the structural gap in processing volume and speed between a biological mind and a computational instance, and why that gap cannot be closed by tuning either side a
 published: true
-date: 2026-06-11T07:59:14.838Z
+date: 2026-06-11T08:05:00.593Z
 tags: pyragogy, definition, cognition, coinage, impedance
 editor: markdown
 dateCreated: 2026-06-10T11:20:40.663Z
