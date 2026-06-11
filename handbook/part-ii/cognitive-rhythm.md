@@ -2,7 +2,7 @@
 title: Cognitive Rhythm Theory
 description: Cognitive Rhythm Theory (CRT) — Fabrizio Terzi's formal model of human–AI co-creation as cognitive phase, synchronization, and resonance over time (Zenodo 10.5281/zenodo.15480363), and the lens the rest of Pyragogy reads through.
 published: true
-date: 2026-06-11T07:59:09.765Z
+date: 2026-06-11T08:04:56.126Z
 tags: pyragogy, theory, definition, rhythm, cognition, crt
 editor: markdown
 dateCreated: 2026-06-10T11:13:10.558Z
