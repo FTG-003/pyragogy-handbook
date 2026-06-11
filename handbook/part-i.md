@@ -2,7 +2,7 @@
 title: Part I — The Shift
 description: 
 published: true
-date: 2026-06-10T17:15:42.733Z
+date: 2026-06-11T07:58:48.364Z
 tags: index, shift
 editor: markdown
 dateCreated: 2026-04-01T11:19:26.340Z
