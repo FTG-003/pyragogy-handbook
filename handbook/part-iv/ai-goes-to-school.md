@@ -2,7 +2,7 @@
 title: Case Study: AI Goes to School
 description: What happens when the pyragogical framework meets a real classroom — documented honestly as an empty frame, because the project has run no school study of its own, while a separate education-research literature has already started using the same word in p
 published: true
-date: 2026-06-11T07:59:51.201Z
+date: 2026-06-11T08:05:40.963Z
 tags: case-study, education, heutagogy, education-4.0, postgraduate, empty-frame
 editor: markdown
 dateCreated: 2026-06-10T11:21:16.307Z
