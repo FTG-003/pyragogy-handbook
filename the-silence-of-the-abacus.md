@@ -2,7 +2,7 @@
 title: The Silence of the Abacus
 description: A short essay: the abacus was the silent instrument that did the arithmetic and left the meaning to us. What changes when the instrument starts to answer back — and the one thing competence can never lend.
 published: true
-date: 2026-06-11T04:42:06.352Z
+date: 2026-06-11T07:58:35.664Z
 tags: pyragogy, essay, tool, cognitive-peer
 editor: markdown
 dateCreated: 2026-06-10T16:26:47.436Z
