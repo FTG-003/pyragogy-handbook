@@ -2,7 +2,7 @@
 title: Part II — Core Concepts
 description: 
 published: true
-date: 2026-06-10T17:15:45.358Z
+date: 2026-06-11T07:58:50.667Z
 tags: index, concepts
 editor: markdown
 dateCreated: 2026-04-01T11:24:10.408Z
