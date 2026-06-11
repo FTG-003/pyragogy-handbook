@@ -2,7 +2,7 @@
 title: Case Study: Open Review
 description: A peer text-review flow augmented by a synthetic Critical Reading Team: four independent models read the same draft without reading each other, and the disagreement that survives is the review.
 published: true
-date: 2026-06-11T07:59:48.716Z
+date: 2026-06-11T08:05:38.560Z
 tags: case-study, open-review, critical-reading-team, crt, peer-review
 editor: markdown
 dateCreated: 2026-06-10T11:14:27.373Z
@@ -104,9 +104,6 @@ The method is written down. The tool is not. What the four readers find when the
 - "Open peer review," *Wikipedia*. https://en.wikipedia.org/wiki/Open_peer_review — HTTP 200; supports the claim that open peer review is an established, adopted practice (open identities / open reports / open participation) used by major publishers.
 - Howard Rheingold and the Peeragogy Project, *The Peeragogy Handbook*. https://peeragogy.org/ — HTTP 200; the human-to-human peer-learning lineage from which Pyragogy forks.
 
-## Toward 2050 — a conjecture
-
-If the independence rule that animates CRT×4 is as load-bearing as this page argues, then the hard problem twenty-five years out might not be convening synthetic readers but *certifying* that they were ever truly independent — and we cannot yet know whether such a guarantee is even constructible. Should models keep drifting toward a shared agreeable center, a 2050 review could need a measurable notion of "reviewer distance," a way to prove that two readings came from genuinely separated vantage points rather than the same trained reflex wearing two faces; absent that, the open review might quietly decay into the consensus it was built to refuse. It is conceivable, too, that the human conductor's seat hardens into a recognized role — the person who answers for a verdict argued out by machines — but whether that would deepen [epistemic ownership](/en/handbook/part-vii/epistemic-ownership) or merely formalize a new deference is exactly the kind of open question the [forward essay](/en/pyragogy-2050) leaves standing rather than settles.
 
 
 ---
