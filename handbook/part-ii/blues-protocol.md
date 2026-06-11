@@ -2,7 +2,7 @@
 title: Blues Protocol
 description: Blues Protocol — a project coinage for the ritual handling of cognitive deadlock, systemic error, and frustration in a human–agent network: not a fix for failure but a structured way of staying in it long enough to make it legible.
 published: true
-date: 2026-06-10T17:16:18.795Z
+date: 2026-06-11T07:59:28.981Z
 tags: pyragogy, definition, blues-protocol, failure, repair, ritual, coinage
 editor: markdown
 dateCreated: 2026-06-10T11:13:25.322Z
@@ -33,7 +33,7 @@ Three near neighbours, named first, because a ritual about failure is easy to co
 
 It is not error handling. Error handling catches a fault and routes around it so the work can continue; its whole purpose is to make the failure *invisible* to everything downstream. The Blues Protocol does the opposite — it makes the deadlock visible on purpose and keeps it in the room. A caught exception is something a system swallows. A blues is something a network sits with.
 
-It is not the [Compliance Trap](/en/handbook/part-vi/compliance-trap) running in reverse, where the human simply gives up and lets the model's wrong answer stand. Giving up is silent and it is final; the protocol is neither. It is a refusal to either ratify the bad output or quietly delete it — a third option between accepting the deadlock and erasing it. The point is to *name* that the thinking has jammed, out loud, as a move that both participants can see.
+It is not the [Compliance Trap](/en/handbook/part-vi/compliance-trap) in its **Deference Trap** face — where the human simply gives up and lets the model's wrong answer stand, as distinct from the machine-side Sycophancy Trap. Giving up is silent and it is final; the protocol is neither. It is a refusal to either ratify the bad output or quietly delete it — a third option between accepting the deadlock and erasing it. The point is to *name* that the thinking has jammed, out loud, as a move that both participants can see.
 
 And it is not a recovery from [Orchestra Desynchronization](/en/handbook/part-vi/orchestra-desynchronization), though it often runs after one. Desynchronization is the breakdown — the participants' rhythms have come apart and the work has ground to a halt. The Blues Protocol is not the breakdown and not its repair-to-prior-state; it is what you do *with* the breakdown before any repair, the deliberate pause in which the jam is examined rather than skipped. You can desynchronize without playing the blues — that is the silent, frustrated abandonment the protocol exists to prevent.
 
