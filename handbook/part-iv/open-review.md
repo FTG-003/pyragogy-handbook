@@ -2,7 +2,7 @@
 title: Case Study: Open Review
 description: A peer text-review flow augmented by a synthetic Critical Reading Team: four independent models read the same draft without reading each other, and the disagreement that survives is the review.
 published: true
-date: 2026-06-10T17:16:40.860Z
+date: 2026-06-11T07:59:48.716Z
 tags: case-study, open-review, critical-reading-team, crt, peer-review
 editor: markdown
 dateCreated: 2026-06-10T11:14:27.373Z
@@ -19,13 +19,20 @@ dateCreated: 2026-06-10T11:14:27.373Z
 
 > Four readers receive the same draft at the same minute. None of them sees the others' margins. One reformulates the argument; one audits the document line by line; one is told to attack the reading the first produced; the last is asked, at the end, to explain to the author why the verdict came out the way it did. Three of the four are language models. The point of the arrangement is that they never agree quietly.
 
-This page documents a method, not a finished product. The method has a working name — **CRT×4** — and at the time of writing it exists as a written specification and a single lived case, not as a deployed tool with field data behind it. We document it now, in that honest state, because an empty frame that says what was tried beats a study that invents what it found.
+This page documents a method with a published spine. Its formal name is **Oblique Peer Review (OPR)**, set out in [Fabrizio Terzi's *Oblique Peer Review*](https://doi.org/10.5281/zenodo.20544658) (Zenodo, CC BY 4.0); its working name in the project is **CRT×4**; its architecture is the **1+N** pattern — one human orchestrator and `N` mutually-blind AI agents. It is *not* vapour: the OPR paper reports a real single-case deployment inside [Obliqo](/en/handbook/part-iv/obliqo), with a documented finding (below). What does not yet exist is the standalone open-source CRT×4 *tool* — the method is published and deployed; the general-purpose instrument is still to be built. We mark that seam rather than paper over it.
 ![independent readers, not an aggregate](/diagrams/17_open-review.svg)
 
 
 ## What it is
 
-CRT×4 is an open-source method, developed under [Pyragogy](/en/handbook/part-ii/what-is-pyragogy) as independent research, for running a peer review of a text through several independent AI readers and a human conductor. The name expands to *Cognitive Rhythm Theory × 4 agents*. It is project coinage — you will not find "CRT×4" in the peer-review literature — and we name it as such here; the method's own page is its home, and elsewhere it should be linked, not redefined.
+OPR / CRT×4 is an open-source method, developed under [Pyragogy](/en/handbook/part-ii/what-is-pyragogy) as independent research, for running a peer review of a text through several independent AI readers and a human conductor. The chain it sits in is explicit:
+
+- the [**Cognitive Rhythm Theory**](/en/handbook/part-ii/cognitive-rhythm) (CRT) is the *theory* — read through it, mutual blindness holds the agents' contributions out of phase "so that synchronization — and with it the collapse into a single voice — cannot occur through imitation";
+- **Oblique Peer Review (OPR)** is the *method / pattern*, formalised as **`1+N`**: one human orchestrator (the `1`) and `N` mutually-blind agents, where "critical tension is produced by the independence of the agents' analytical axes, not by opposition between their positions — the agents never communicate";
+- **CRT×4** is the method's `N = 4` instance; its working name expands to *Cognitive Rhythm Theory × 4 agents*, and the four agents are the **Critical Reading Team**;
+- [**Obliqo**](/en/handbook/part-iv/obliqo) is the *commercial application* of the same pattern.
+
+You will not find "CRT×4" in the peer-review literature; you will find OPR and its `1+N` formalisation in the project's own published paper, which is where the method's claims are argued and which this page links rather than restates.
 
 The thing being reviewed, in this case study, is a document: an argument, a chapter, a policy draft, a paper. What the method adds to an ordinary human read-through is a **Critical Reading Team** — a small set of models that read the same draft under one rule that does most of the work: they read it *independently*, and their readings are never merged into a single smooth verdict.
 
@@ -71,8 +78,8 @@ What is real: the method is specified in a dated project document; its nine stag
 
 What is **not** yet real, and must not be dressed as if it were:
 
-- The tool does not exist. The specification states plainly that construction comes *after* a product launch and *after* the written method has received a first signal — "no impulse code." There is therefore no deployment, no usage, no instrumented run of an open-text review through CRT×4 to report.
-- The one concrete result the source gestures at — a claim that the method "closed three HIGH vulnerabilities in production" on a code repository — is (a) about code, not text, and (b) reported in the spec as a headline-to-be for a future README, not as a measured, reproduced outcome. It is not evidence for the open-review-of-a-text use this page documents.
+- The standalone open-**text**-review tool does not exist. Construction comes *after* a product launch and *after* the written method receives a first signal — "no impulse code." So there is no deployment, no usage, no instrumented run of an open-review *of a text* through CRT×4 to report.
+- The OPR *pattern* itself, by contrast, **has** a published deployment — and its reported finding cuts against the method's own optimism, which is why it matters. In the Obliqo deployment ([OPR paper](https://doi.org/10.5281/zenodo.20544658), n=1, founder-as-researcher, *code* domain), structural blindness did **not** guarantee divergence: independent, mutually-blind agents **converged on the same defect** (an "over-firing anomaly"), which forced a structural self-modification of the system's evaluation rubric. The paper's sharper lesson, in its words: "agreement among independent, mutually-blind models can itself be spurious convergence on a flawed candidate mitigation, caught only by checking against recorded data outside the loop." This is real, published, and load-bearing — but it is a single code-domain case, not yet evidence for the open-review-of-a-**text** use this page documents.
 - No reader counts, no agreement rates, no before/after quality measures, no quotes from authors who went through the loop. None of these exist to report, and none are invented here.
 
 ## Open tensions
@@ -91,10 +98,15 @@ The method is written down. The tool is not. What the four readers find when the
 
 ## References
 
+- **Fabrizio Terzi, *Oblique Peer Review: Extending Pyragogy Design Patterns through Structural Isolation and the Limits of Blind Convergence*, Zenodo (Preprint). DOI [10.5281/zenodo.20544658](https://doi.org/10.5281/zenodo.20544658), CC BY 4.0.** — the published source of the OPR method, the `1+N` architecture, and the single-case Obliqo deployment with the over-firing convergence finding quoted above. Builds on the [Cognitive Rhythm Theory](https://doi.org/10.5281/zenodo.15480363) (Zenodo 10.5281/zenodo.15480363) as its conceptual lens.
 - Pyragogy CRT×4 — Open Source Project (working specification), 2026-06-01. Internal project asset: `pyragogy-crt4-opensource-method-2026-06-01.pdf`. Source for the nine-stage workflow, the independence non-negotiable, the learning-loop stage, the method/application/paper positioning, and the build-after-launch decision. This document has no public URL at time of publication and cannot be independently verified by readers; it is cited here as an internal source pending a decision on public release form.
 - Tony Ross-Hellauer, "What is open peer review? A systematic review," *F1000Research* 6:588 (2017). https://doi.org/10.12688/f1000research.11369.2 — DOI resolves (302 → article); metadata confirmed via Crossref; the abstract characterizes open peer review as an "umbrella term" spanning 22 configurations of seven traits. (The article page itself returns 403 to automated fetches; the DOI is the stable citation.)
 - "Open peer review," *Wikipedia*. https://en.wikipedia.org/wiki/Open_peer_review — HTTP 200; supports the claim that open peer review is an established, adopted practice (open identities / open reports / open participation) used by major publishers.
 - Howard Rheingold and the Peeragogy Project, *The Peeragogy Handbook*. https://peeragogy.org/ — HTTP 200; the human-to-human peer-learning lineage from which Pyragogy forks.
+
+## Toward 2050 — a conjecture
+
+If the independence rule that animates CRT×4 is as load-bearing as this page argues, then the hard problem twenty-five years out might not be convening synthetic readers but *certifying* that they were ever truly independent — and we cannot yet know whether such a guarantee is even constructible. Should models keep drifting toward a shared agreeable center, a 2050 review could need a measurable notion of "reviewer distance," a way to prove that two readings came from genuinely separated vantage points rather than the same trained reflex wearing two faces; absent that, the open review might quietly decay into the consensus it was built to refuse. It is conceivable, too, that the human conductor's seat hardens into a recognized role — the person who answers for a verdict argued out by machines — but whether that would deepen [epistemic ownership](/en/handbook/part-vii/epistemic-ownership) or merely formalize a new deference is exactly the kind of open question the [forward essay](/en/pyragogy-2050) leaves standing rather than settles.
 
 
 ---
