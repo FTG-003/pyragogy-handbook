@@ -2,7 +2,7 @@
 title: Glossary
 description: A fast reference layer for the handbook's terms, marking which are project coinage and which are borrowed from established literature. Each term links to the page where it is defined in full.
 published: true
-date: 2026-06-11T07:58:45.795Z
+date: 2026-06-11T08:04:28.172Z
 tags: index, glossary, terms
 editor: markdown
 dateCreated: 2026-04-01T11:49:31.713Z
