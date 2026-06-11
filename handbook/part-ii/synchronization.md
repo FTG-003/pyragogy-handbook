@@ -1,8 +1,8 @@
 ---
 title: Synchronization
-description: Synchronization — a project-specific use of the term for the intermittent points at which a human-machine learning group's knowledge state briefly aligns, anchored on Herbert Clark's grounding and the team-cognition literature.
+description: Synchronization — the S(t) (synchronization) variable of the Cognitive Rhythm Theory: the intermittent points at which a human-machine learning group's knowledge state briefly aligns, anchored on Herbert Clark's grounding and the team-cognition literature
 published: true
-date: 2026-06-10T17:16:12.341Z
+date: 2026-06-11T07:59:22.168Z
 tags: pyragogy, definition, cognition, synchronization, common-ground
 editor: markdown
 dateCreated: 2026-06-10T11:13:18.547Z
@@ -21,7 +21,7 @@ dateCreated: 2026-06-10T11:13:18.547Z
 
 Those brief moments of holding the same picture are what this page is about.
 
-We use **Synchronization** here in a project-specific sense, and it is worth marking the borrow before leaning on it. The word belongs to physics and to engineering, where it names oscillators falling into a common phase; it is not, in that form, a learning-sciences construct. What Pyragogy means by it is narrower and is built on top of established work: the points and frequencies at which the **knowledge state** of a learning group — what its participants take to be jointly held, settled, available to build on — briefly comes into alignment. Not the alignment of two clocks (that question belongs to [Cognitive Rhythm](/en/handbook/part-ii/cognitive-rhythm)), but the alignment of two *understandings* of where the work stands.
+**Synchronization** is not a standalone coinage. It is one of the two coupling variables of the [Cognitive Rhythm Theory](/en/handbook/part-ii/cognitive-rhythm) — the term **`S(t)`**, which the theory defines as *"the degree of temporal alignment between human and artificial cognitive processes."* The theory distinguishes phase, frequency, and **content** synchronization; this page develops the **content** form — the points and frequencies at which the **knowledge state** of a learning group, what its participants take to be jointly held and available to build on, briefly comes into alignment. Not the alignment of two clocks as such (that is the rhythm as a whole), but the alignment of two *understandings* of where the work stands. The theory's own caution carries here: synchronization "is not necessarily optimal when it is maximal."
 
 The established name for that shared understanding is **common ground**, and it is not ours. [Herbert Clark and Susan Brennan](https://web.stanford.edu/~clark/1990s/Clark,%20H.H.%20_%20Brennan,%20S.E.%20_Grounding%20in%20communication_%201991.pdf) defined it in 1991 as the "mutual knowledge, mutual beliefs, and mutual assumptions" two people must share to communicate at all, and named **grounding** as the continuous, collaborative process by which they keep building it — turn by turn, each contribution checked against the other's apparent uptake until both reach the *grounding criterion*: the mutual belief that what was meant has been understood well enough for present purposes. Synchronization, as we use the term, is the moment the grounding criterion is jointly met across the whole state of the work, not just the last utterance. It is grounding, succeeded, made momentarily total.
 
