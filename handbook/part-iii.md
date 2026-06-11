@@ -2,7 +2,7 @@
 title: Part III — Protocols and Practices
 description: 
 published: true
-date: 2026-06-11T07:58:53.130Z
+date: 2026-06-11T08:04:36.107Z
 tags: index, protocols
 editor: markdown
 dateCreated: 2026-04-01T11:35:24.707Z
