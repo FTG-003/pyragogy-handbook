@@ -2,7 +2,7 @@
 title: What is Pyragogy
 description: 
 published: true
-date: 2026-06-11T07:59:07.370Z
+date: 2026-06-11T08:04:53.779Z
 tags: pyragogy, definition
 editor: markdown
 dateCreated: 2026-06-09T17:20:41.480Z
