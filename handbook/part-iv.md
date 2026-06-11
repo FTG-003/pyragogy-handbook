@@ -2,7 +2,7 @@
 title: Part IV — Cases and Experiments
 description: 
 published: true
-date: 2026-06-11T07:58:55.415Z
+date: 2026-06-11T08:04:38.691Z
 tags: index, cases
 editor: markdown
 dateCreated: 2026-04-01T11:39:14.172Z
