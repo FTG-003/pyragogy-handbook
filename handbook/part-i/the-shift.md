@@ -2,7 +2,7 @@
 title: The Paradigm Shift
 description: Why the entrance of AI into learning is a shift from tool use to co-presence — not a gain in efficiency — and what that re-frames for the rest of the handbook.
 published: true
-date: 2026-06-11T07:59:04.807Z
+date: 2026-06-11T08:04:50.949Z
 tags: shift, chapter-0, ai-peer, peeragogy, co-presence
 editor: markdown
 dateCreated: 2026-04-01T11:22:59.699Z
@@ -77,9 +77,6 @@ The room used to hold one mind doing the work. Now it holds two, unevenly, and t
 - Howard Rheingold and the Peeragogy Project, *The Peeragogy Handbook* (2012–2021; public domain / CC0). https://peeragogy.org/
 - Thomas Kuhn, *The Structure of Scientific Revolutions* (University of Chicago Press, 1962). On "paradigm," paradigm shift, and incommensurability, see the *Stanford Encyclopedia of Philosophy* entry "Thomas Kuhn." https://plato.stanford.edu/entries/thomas-kuhn/
 
-## Toward 2050 — a conjecture
-
-If "co-presence" names the moment a second participant entered the room, then I find myself wondering what becomes of the word once a generation has never studied without one. It might be that the very distinction this chapter leans on — tool *versus* presence — dissolves for learners who never experienced its other side, the way "writing technology" stopped feeling like a technology to people raised inside literacy; if so, the open questions we frame here as live might read, by mid-century, as the awkward record of a threshold being crossed rather than as live problems. Or the asymmetry I keep flagging could harden instead of fade, and a 2050 reader might judge that we were too quick to call it presence at all. We cannot yet know which, and the [forward essay](/en/pyragogy-2050) only sharpens the doubt rather than settling it.
 
 
 ---
