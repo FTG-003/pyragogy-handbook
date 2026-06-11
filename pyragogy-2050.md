@@ -2,7 +2,7 @@
 title: Pyragogy 2050: A Conjecture About the Next Twenty-Five Years
 description: A forward-looking essay, honest about being one: where human–AI co-learning could go by 2050, written as conjecture rather than forecast — two open forks, and the one job that stays ours.
 published: true
-date: 2026-06-11T04:42:01.084Z
+date: 2026-06-11T07:58:43.670Z
 tags: pyragogy, future, essay, 2050, conjecture
 editor: markdown
 dateCreated: 2026-06-11T04:42:01.084Z
