@@ -2,7 +2,7 @@
 title: Part VII — Open Questions
 description: 
 published: true
-date: 2026-06-11T07:59:02.701Z
+date: 2026-06-11T08:04:46.149Z
 tags: index, open-questions
 editor: markdown
 dateCreated: 2026-06-10T11:21:54.479Z
