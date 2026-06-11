@@ -2,7 +2,7 @@
 title: Resonance
 description: Resonance — the R(t) (resonance) variable of the Cognitive Rhythm Theory: the rare interval when a human-machine learning group produces something neither side, nor their plain sum, was on track to produce. Anchored on emergence and the collective-intelli
 published: true
-date: 2026-06-11T07:59:26.609Z
+date: 2026-06-11T08:05:09.122Z
 tags: pyragogy, definition, resonance, emergence, collective-intelligence
 editor: markdown
 dateCreated: 2026-06-10T11:20:49.922Z
