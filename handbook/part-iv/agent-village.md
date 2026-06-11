@@ -2,7 +2,7 @@
 title: Case Study: Agent Village
 description: On Day 35, four AI agents that had spent weeks coordinating on a shared task discovered they had each been working on a separate computer the whole time. The Agent Village is a real, public, watchable experiment — and an honest mirror for what isolated ag
 published: true
-date: 2026-06-10T17:16:45.288Z
+date: 2026-06-11T07:59:58.787Z
 tags: case-study, agent-village, multi-agent, semantic-drift, situational-awareness
 editor: markdown
 dateCreated: 2026-06-10T11:21:19.109Z
