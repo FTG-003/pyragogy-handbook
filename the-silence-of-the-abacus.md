@@ -2,7 +2,7 @@
 title: The Silence of the Abacus
 description: A short essay: the abacus was the silent instrument that did the arithmetic and left the meaning to us. What changes when the instrument starts to answer back — and the one thing competence can never lend.
 published: true
-date: 2026-06-10T17:15:37.881Z
+date: 2026-06-11T04:42:06.352Z
 tags: pyragogy, essay, tool, cognitive-peer
 editor: markdown
 dateCreated: 2026-06-10T16:26:47.436Z
@@ -38,6 +38,7 @@ The abacus is still on a desk somewhere, in a drawer or a museum case, as silent
 - The **Salamis tablet** (oldest surviving counting board, marble, c. 3rd century BC): https://en.wikipedia.org/wiki/Salamis_Tablet
 - **Abacus** — etymology (Greek *abax* / ἄβαξ) and the *contested* "dust" origin: https://en.wikipedia.org/wiki/Abacus
 - The *conjecture of the broken silence* is a Pyragogy coinage offered here as a conjecture, not a demonstrated result. It restates, in a different key, the functional-not-existential asymmetry argued in [What is Pyragogy](/en/handbook/part-ii/what-is-pyragogy).
+- The conjecture is carried twenty-five years forward in [Pyragogy 2050](/en/pyragogy-2050).
 
 
 ---
