@@ -2,7 +2,7 @@
 title: Synchronization
 description: Synchronization — the S(t) (synchronization) variable of the Cognitive Rhythm Theory: the intermittent points at which a human-machine learning group's knowledge state briefly aligns, anchored on Herbert Clark's grounding and the team-cognition literature
 published: true
-date: 2026-06-11T07:59:22.168Z
+date: 2026-06-11T08:05:03.276Z
 tags: pyragogy, definition, cognition, synchronization, common-ground
 editor: markdown
 dateCreated: 2026-06-10T11:13:18.547Z
