@@ -2,7 +2,7 @@
 title: Anti-Pattern: Orchestra Desynchronization
 description: How a multi-agent pipeline breaks down — infinite loops, hallucination that propagates between agents, semantic deadlocks — and the emergency procedures that stop the network from running on confidently while wrong.
 published: true
-date: 2026-06-11T08:00:05.818Z
+date: 2026-06-11T08:05:49.959Z
 tags: anti-pattern, orchestration, multi-agent, failure-modes, emergency-procedures
 editor: markdown
 dateCreated: 2026-06-10T11:21:27.337Z
@@ -87,11 +87,6 @@ The orchestra metaphor has a limit, and it is the right note to end on. A real o
 - Xixun Lin, Yucheng Ning, Jingwen Zhang, et al., "LLM-based Agents Suffer from Hallucinations: A Survey of Taxonomy, Methods, and Directions," arXiv:2509.18970 (Sep 2025). Source of the propagation/accumulation claim: agent hallucinations "may also arise during intermediate processes such as perception and reasoning, where they can propagate and accumulate over time." https://arxiv.org/html/2509.18970v1
 - Jiaming Qu, Lucheng Fu, and Yibo Hu, "Easier to Mislead Than to Correct: Harmful and Beneficial Revision in LLM Conformity," arXiv:2606.01637 (2026). Measures the asymmetry of peer pressure in multi-agent settings — peer agreement raised harmful revision of initially-correct models from 15.6% to 62.9% — and concludes that peer answers should be verified before they are aggregated into a final decision. https://arxiv.org/abs/2606.01637
 
-## Toward 2050 — a conjecture
-
-If agent pipelines deepen over the next twenty-five years — more agents, longer chains, hand-offs no human ever reads in full — then the recovery procedures on this page might quietly stop being usable, because every one of them assumes a person can still freeze the transcript and read the seam where two agents parted ways. We cannot yet know whether the field will respond by building desynchronization detection *into* the orchestration itself — a learned sense of when the orchestra is "looping confidently toward nothing" rather than working — or whether that very detector would just become one more voice to aggregate, one more thing that can ratify a false beat. The harder open question, sketched in the [2050 essay](/en/pyragogy-2050), is whether the human's irreducible role here — being the only one who can hear the whole — survives as a genuine anchor or hardens into a comforting fiction we keep because we are not willing to admit no one is listening to the whole anymore. I lean toward the first, but I hold it loosely.
-</content>
-</invoke>
 
 
 ---
