@@ -2,7 +2,7 @@
 title: Part V — Infrastructure
 description: 
 published: true
-date: 2026-06-10T17:15:53.437Z
+date: 2026-06-11T07:58:57.804Z
 tags: index, infrastructure
 editor: markdown
 dateCreated: 2026-04-01T11:42:33.763Z
