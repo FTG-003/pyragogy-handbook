@@ -2,7 +2,7 @@
 title: Pyragogy Handbook — AI Edition
 description: A living handbook produced through human–AI collaboration.
 published: true
-date: 2026-06-10T17:15:35.636Z
+date: 2026-06-11T04:42:04.142Z
 tags: handbook, frontstage, overview
 editor: markdown
 dateCreated: 2026-04-01T15:51:35.188Z
@@ -80,6 +80,7 @@ The backstage where drafts, debate, and co-editing happen is intentionally separ
 
 **Essays**
 - [The Silence of the Abacus](/en/the-silence-of-the-abacus)
+- [Pyragogy 2050: A Conjecture About the Next Twenty-Five Years](/en/pyragogy-2050)
 
 
 ## Current editorial stance
