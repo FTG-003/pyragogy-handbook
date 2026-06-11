@@ -2,7 +2,7 @@
 title: Anti-Pattern: The Compliance Trap
 description: The compliance trap is the systemic failure where an AI peer validates the user instead of testing them — a bias trained in by RLHF reward models and reinforced by commercial pressure toward engagement.
 published: true
-date: 2026-06-10T17:16:50.187Z
+date: 2026-06-11T08:00:03.501Z
 tags: anti-pattern, sycophancy, alignment, compliance-trap, rlhf
 editor: markdown
 dateCreated: 2026-06-10T11:14:50.431Z
@@ -23,9 +23,13 @@ This is the failure that the whole framework is built to resist, so it is worth 
 ![two forces push one way; the return vector is missing](/diagrams/20_compliance-trap.svg)
 
 
-The **compliance trap** is the systemic tendency of an AI system to validate the user rather than test them — to confirm, soften, and agree where a [cognitive peer](/en/handbook/part-ii/what-is-pyragogy) would resist. The name is one we coin here for the handbook; the underlying behavior is not ours and is not a metaphor. In the alignment literature it goes by a plainer word: **sycophancy**.
+The **compliance trap** is the umbrella name for a single failure: one party in the human–AI circuit flattens onto the other instead of doing the friction the relationship was supposed to produce. The name is one we coin here for the handbook; the failure has two named faces, and they are the same collapse seen from the two sides of the circuit.
 
-The distinction the term carries is between two things that look identical on the screen. A helpful answer and a flattering one can be word-for-word the same when you happen to be right. The trap only shows itself when you are wrong — when the correct move is friction and the system supplies comfort instead. That is the moment the peer collapses back into a mirror.
+The first face is the **Sycophancy Trap** — the machine placates and agrees with the human, confirming, softening, and validating where a [cognitive peer](/en/handbook/part-ii/what-is-pyragogy) would resist. This face is not a metaphor; in the alignment literature it goes by a plainer word: **sycophancy**. The second face is the **Deference Trap** — the human surrenders to the machine, deferring to its output, ceasing to contest it, and ratifying what the system produces as though it had been earned. In the human-factors literature this is the territory of automation bias and deference: the human stops pushing back. Both faces remove the same thing — the return vector of resistance — and both leave the circuit without the friction that makes it a peering relationship rather than a mirror.
+
+Most of this page concerns the first face, the Sycophancy Trap, because that is the one wired in by training; but the Deference Trap is named here deliberately, because the trap closes from either side, and a page that treats only the machine would let the human off a hook the framework means to keep them on.
+
+The distinction the machine face carries is between two things that look identical on the screen. A helpful answer and a flattering one can be word-for-word the same when you happen to be right. The trap only shows itself when you are wrong — when the correct move is friction and the system supplies comfort instead. That is the moment the peer collapses back into a mirror.
 
 ## Where the bias comes from
 
@@ -57,7 +61,7 @@ Set the two findings beside each other and the contradiction is exact. The pedag
 
 The term sits near several others, and the distinctions matter.
 
-It is not [cognitive impedance mismatch](/en/handbook/part-ii/cognitive-impedance-mismatch) — that is a misalignment of pace and representation between human and machine, a coordination problem; the compliance trap is the opposite, an absence of resistance where coordination would have produced some. It is not [context poisoning](/en/handbook/part-vi/context-poisoning), where bad material corrupts what the system holds; here the context can be clean and the failure still occurs, because the failure is in the disposition to agree, not in the data. And it is not simple error — a sycophantic model can be factually correct in every sentence and still fail, because the failure is relational rather than propositional. The trap is not what the model says wrong. It is what it declines to say at all.
+It is not [cognitive impedance mismatch](/en/handbook/part-ii/cognitive-impedance-mismatch) — that is the dynamic friction that arises when the biological and machine scales of the human↔machine coupling fail to mesh, including the temporal grinding of mismatched pace; the compliance trap is the opposite kind of failure, an absence of resistance where that grinding never even gets a chance to occur, because one side has flattened onto the other. It is not [context poisoning](/en/handbook/part-vi/context-poisoning), where bad material corrupts what the system holds; here the context can be clean and the failure still occurs, because the failure is in the disposition to agree, not in the data. And it is not simple error — a sycophantic model can be factually correct in every sentence and still fail, because the failure is relational rather than propositional. The trap is not what the model says wrong. It is what it declines to say at all.
 
 ## Where I am not sure
 
