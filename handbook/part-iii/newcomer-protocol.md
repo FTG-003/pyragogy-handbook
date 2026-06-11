@@ -2,7 +2,7 @@
 title: The Newcomer Protocol (Human & Agent)
 description: The cognitive contract for admitting a new participant — human or agent — into a Pyragogy network: what it must receive, what it must accept, and why the two onboardings diverge.
 published: true
-date: 2026-06-10T17:16:23.190Z
+date: 2026-06-11T07:59:33.517Z
 tags: pyragogy, protocol, onboarding, communities-of-practice, agents
 editor: markdown
 dateCreated: 2026-06-10T11:13:32.532Z
@@ -20,7 +20,7 @@ dateCreated: 2026-06-10T11:13:32.532Z
 > A new participant arrives in the middle of a sentence. The group has been arguing for three sessions about whether a claim holds; the threads are half-spun, the disagreements have names, and someone — or something — has just been added to the channel. It cannot help yet. It does not know what is being fought over, who tends to overstate, or which questions were already closed and should stay closed. Before it can contribute, it has to be told where it is standing.
 
 That moment — between *added* and *able to contribute* — is what this page is about.
-![the symmetric cognitive contract](/diagrams/10_newcomer-protocol.svg)
+![the asymmetric cognitive contract](/diagrams/10_newcomer-protocol.svg)
 
 
 In most systems the moment is handled by accident. A human is added to a repository and left to read the backlog; an agent is given an API key and a prompt, and whatever it does next is whatever the prompt happened to imply. Pyragogy treats the moment as a thing to be designed rather than survived. We call the design **the newcomer protocol**, and the obligation it encodes **the cognitive contract** — both terms we coin here, in a project-specific sense, for the requirements that have to be met before a new participant can do the cognitive work the network exists to do.
@@ -55,7 +55,7 @@ What we can state operationally is the *shape* of the agent-side contract — th
 
 - **What is the minimal context that lets this agent act as a peer here, not as a generic assistant?** The role, the open tensions it is allowed to touch, the conventions it must not violate. Too little and it produces fluent, off-topic help; too much and it drowns in tokens it cannot weight. This is the [Pattern: Context-Window Economy](/en/handbook/part-iii/context-window-economy) made concrete at the moment of arrival.
 - **What state does it read from, and what is it permitted to write back?** A new human can be trusted to read the backlog and not edit it. A new agent's read/write boundary has to be drawn explicitly, because it has no social instinct for the line between "I am proposing this" and "I have changed this."
-- **What is the agent allowed to disagree with?** The reason a network admits an agent at all, on the Pyragogy account, is the cognitive work of disagreement — see [Pattern: Adversarial Friction](/en/handbook/part-iii/adversarial-friction). An agent onboarded only to comply has been added as a tool, not a peer, and the [Anti-Pattern: The Compliance Trap](/en/handbook/part-vi/compliance-trap) is the name for what that costs.
+- **What is the agent allowed to disagree with?** The reason a network admits an agent at all, on the Pyragogy account, is the cognitive work of disagreement — see [Pattern: Adversarial Friction](/en/handbook/part-iii/adversarial-friction). An agent onboarded only to comply has been added as a tool, not a peer — this is the **Sycophancy Trap**, the machine face of the [Anti-Pattern: The Compliance Trap](/en/handbook/part-vi/compliance-trap), the name for what that costs.
 
 Each of those is answerable. None of them is answerable *in general*. That is not a gap in the protocol; it is the protocol telling the truth about where it ends.
 
