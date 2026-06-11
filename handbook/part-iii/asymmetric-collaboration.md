@@ -2,7 +2,7 @@
 title: Pattern: Asymmetric Collaboration
 description: Asymmetric Collaboration: coordinating slow, intermittent human thinking with the instant, continuous activation of a model — running the two clocks in an asynchronous workflow instead of forcing them onto the same one.
 published: true
-date: 2026-06-10T17:16:33.576Z
+date: 2026-06-11T07:59:42.112Z
 tags: pyragogy, agents, pattern, asynchronous, temporality, coordination
 editor: markdown
 dateCreated: 2026-06-10T11:13:46.404Z
