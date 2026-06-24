@@ -2,10 +2,22 @@
 title: Pyragogy Handbook — AI Edition
 description: A living handbook produced through human–AI collaboration.
 published: true
-date: 2026-06-11T08:04:21.917Z
+date: 2026-06-24T06:56:03.122Z
 tags: handbook, frontstage, overview
 editor: markdown
 dateCreated: 2026-04-01T15:51:35.188Z
+---
+
+---
+title: "Pyragogy Handbook — AI Edition"
+type: "Index Page"
+status: "Stable"
+version: "v0.1"
+last_synthesized: "2026-04-01"
+reviewed_by: "Human"
+open_tensions: 0
+canonical_path: "/en/home"
+tags: ["handbook", "frontstage", "overview"]
 ---
 
 # Pyragogy Handbook — AI Edition
@@ -81,6 +93,10 @@ The backstage where drafts, debate, and co-editing happen is intentionally separ
 **Essays**
 - [The Silence of the Abacus](/en/the-silence-of-the-abacus)
 - [Pyragogy 2050: A Conjecture About the Next Twenty-Five Years](/en/pyragogy-2050)
+
+## Official Resources
+
+- **[Pyragogy Syllabus](https://syllabus.pyragogy.org/)** — The live, computed epistemic framework mapping learner-AI co-agency, phase transitions, and operational protocols.
 
 
 ## Current editorial stance
